@@ -1,0 +1,72 @@
+name: Check public report sites
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/check-public-sites.yml']
+  workflow_run:
+    workflows: ['pages build and deployment']
+    types: [completed]
+
+permissions: {}
+
+jobs:
+  check:
+    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
+    runs-on: ubuntu-24.04
+    timeout-minutes: 5
+    steps:
+      - name: Verify both anonymous public pages and isolated report payloads
+        run: |
+          python - <<'PY'
+          import hashlib
+          import json
+          import re
+          import time
+          import urllib.request
+          from urllib.parse import urlsplit, parse_qsl
+
+          base = 'https://treatbschubert.github.io/Monitoring-2/'
+          for slug, client in [('renault', 'renault'), ('tetra-pak', 'tetra')]:
+              url = base + slug + '/'
+              last_error = None
+              for attempt in range(12):
+                  try:
+                      # No Authorization header, browser cookies or private credentials.
+                      with urllib.request.urlopen(url, timeout=20) as response:
+                          if response.status != 200:
+                              raise RuntimeError('Expected HTTP 200')
+                          body = response.read(1000000)
+                      html = body.decode('utf-8')
+                      match = re.search(r'<script id="public-data" type="application/json">(.*?)</script>', html, re.S)
+                      if not match:
+                          raise RuntimeError('The response is not a monitoring report')
+                      data = json.loads(match.group(1))
+                      reports = data.get('reports', [])
+                      if len(reports) != 1 or reports[0]['id'] != client:
+                          raise RuntimeError('Client separation check failed')
+                      for term in ['http_diagnostic', 'raw_html', 'PRIVATE-SENTINEL', 'api.github.com/repos/', 'github.com/treatbschubert/Monitoring']:
+                          if term in html:
+                              raise RuntimeError('Internal field/link found in public page')
+                      for item in reports[0]['items']:
+                          parsed = urlsplit(item['url'])
+                          if parsed.scheme not in ('http', 'https') or parsed.username or parsed.password:
+                              raise RuntimeError('Invalid source URL')
+                          if any(k.lower() in {'token', 'access_token', 'authorization', 'api_key', 'signature'} for k, _ in parse_qsl(parsed.query)):
+                              raise RuntimeError('Credential-like source URL parameter')
+                      result = dict(url=url, status=200, client=client,
+                                    records=len(reports[0]['items']),
+                                    report_generated_at=reports[0]['generated_at'],
+                                    sha256=hashlib.sha256(body).hexdigest(),
+                                    anonymous_access=True)
+                      print(json.dumps(result, ensure_ascii=False))
+                      break
+                  except Exception as error:
+                      last_error = error
+                      if attempt == 11:
+                          raise
+                      time.sleep(5)
+              else:
+                  raise RuntimeError(str(last_error))
+          PY
