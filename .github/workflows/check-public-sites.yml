@@ -2,6 +2,9 @@ name: Check public report sites
 
 on:
   workflow_dispatch:
+  schedule:
+    # Independent smoke test even when GitHub Pages' dynamic workflow does not trigger workflow_run.
+    - cron: '42 0,7 * * *' # 09:42 and 16:42 JST, GitHub may delay scheduling.
   push:
     branches: [main]
     paths: ['.github/workflows/check-public-sites.yml']
