@@ -1,4 +1,4 @@
-更新日時: 2026年11月25日（水）08:25 JST
+更新日時: 2026年11月25日（水）08:28 JST
 
 【ニュース】
 
@@ -20,11 +20,7 @@
 
 ○11月17日 [Japan’s Omura City eyes IR project with a ‘2030s’ opening schedule](https://news.google.com/rss/articles/CBMikAFBVV95cUxQMWFrN0k5dXhNZ3NZZEZEMGE4a0s5cklMcXk1TThsVU53OHVqQ3h3eUdiZTZkM2pxMnBCa0hTUV9ZSUtYZmR5ejRCekYzTUxtWkwyYmRHMkh0UHhOZTRhZWZJME91SVVOUUpGMnZ1RDRuQXFLbl94TF9ub3l6WXlqNWN6Tm91VmtwMVlSTGotOFk?oc=5) GGRAsia
 
-○11月18日 [IR誘致の福岡・大任町長「複数事業者が関心」 県議会で3月議決を](https://news.google.com/rss/articles/CBMibEFVX3lxTE1jMHJMZWU1M1gybERPQUpRbmpKOUJtdFJxRm1EdG41RzBWaHpHamxmd0ZqN2d0UTRjVHFiaHBWcjdwSWtHQUZHeTJua1QzdXA0bVNuSHZnRTdYSnJSckcyOV81OHN2NTV1OFFUMQ?oc=5) 日本経済新聞
-
 ○11月18日 [Hokkaido confirms it will skip 2027 IR application, seeks easing on facility requirements](https://news.google.com/rss/articles/CBMisgFBVV95cUxQVVFYZ3VDZ29ucFNPSVgzWUh4R0FvQmVnNnAxU3Zjd1lYYmRkZ21hUzVSSjRLdUhCWUd5MGcxRmNuOE9FN2NrUF8xa2ZCSEoyNWk2MjhzYy1YdUh5TzYtOUhNdVZ1NHR4RVVWX1IzV2VNYnl4QzNnOW5PcGM2Vm5FZ2g1VnYtaXB5QzR2QllrOUJ4MTRWdERUbmY5Z2FFdTdtRXNnR205cDZUT2EtSS1LNnRn?oc=5) GGRAsia
-
-○11月18日 [ＱＬＳホールディングス「7075」：「名証IRエキスポ2026」出展のお知らせ 2026年11月18日(適時開示) ：日経会社情報DIGITAL](https://news.google.com/rss/articles/CBMiakFVX3lxTE1mOUdjQmI1TFFOTkF0QmhYTGZJWkdDSHIwcWRSd0pUUnRxRUZUeU5tTWhGSU1SeGV1QXczeWEwODNIOTF0d3dxdGlTcmdybDc5VjVCZUZoWDBrQUljenZXRFY2aHVWQklJS0E?oc=5) 日本経済新聞
 
 ○11月19日 [JR北海道の黄線区「IRで稼ぎ増やせば鉄路守れる」 苫小牧市長](https://news.google.com/rss/articles/CBMibEFVX3lxTE9ScEpxNVliMVZtcmNNTF8xdmlJYUs0X0pndEFUeGZBNlJLNEI1NjEzdkplUFBIOWFwekNGMzc5d25DYlotOG90Z2EwVHF2U1hqa2ZrR2FlZU15V2diY3FyUnBYR2ItTkpabHZPaw?oc=5) 日本経済新聞
 
