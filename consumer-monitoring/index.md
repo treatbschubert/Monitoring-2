@@ -1,8 +1,6 @@
-更新日時: 2026年11月25日（水）09:35 JST
+更新日時: 2026年11月25日（水）17:36 JST
 
 【ニュース】
-
-○11月21日 [朝鮮人虐殺、犠牲者追悼 小池都知事は追悼文送らず](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5YTkxUYVl3NDduVXhCM2NSSUhieEg1bVFyYmRlSWJnZnI5Wm5HenBTTmZwc2hhQVVrQ2ppQ0NYcmNtdi1QdURBZkowRVdZTFBoRFBBSWlOeW5RZw?oc=5) 山陽新聞
 
 ○11月22日 [成績 台東学童都知事杯（11月22日）](https://news.google.com/rss/articles/CBMiU0FVX3lxTE43TnRDXzVVS3dUUTNyWGtOR1FxaWhEZXBxZk0wSFlVVkFEcU1VVVV1bUxTWjFwUzR6S0dRV3hKZ0VmdF9aYkZaVndDdTVFT3R5YnJn?oc=5) 東京新聞
 
@@ -13,6 +11,8 @@
 ○11月24日 [都議会4会派、防災やサイバー攻撃対策を知事に要望 補正予算案で](https://news.google.com/rss/articles/CBMibEFVX3lxTFB5cUlEVloySUs3aXZ5QzdPTmt0S1lITTFPWVljdjFFTGRSWFBCeDRJOG16aHN6Zmh6UWtfaE01Qk5ZanczWDJuWkl4WUNmdkQ5TlZnUzN3WVozLUJkREhwUTlpVTBkeXFJT1FZMw?oc=5) 日本経済新聞
 
 ○11月24日 [成績 台東学童都知事杯（11月23日）](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1HaEI3ajBnLU1ETldtVTF2NTdhN3l3N2h3Z2w5STZtNVRGVXBBZzlkY1JPSlhDWnJkUmh6RjNHeV82RHB2NEt0NDFoSXdjMzRMRkZn?oc=5) 東京新聞
+
+○11月25日 [朝鮮人虐殺、犠牲者追悼 小池都知事は追悼文送らず](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1JcFdTeXVrV1BpVm9IcHFDTkkxUEhhWVlaRVhoUG9XdXlvUkdTU2kyOElUdl9BUDk3c3h5SjJodTVhblVGa2lNZDJMTE5LUC1PTHRWWXd6dTdlVDJiNGc?oc=5) 山陽新聞
 
 ○11月25日 [サイバー対策などを補正予算編成に要望 知事に都議会会派](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9xNUIwbWUxRTdSSnJzX1Bid3hQdnhfRW5ZOU5PVEtieUZNNHI1LVc1UG1seXI2QklLbTIyeVNLdUZYRDBwbmxkbUZONTBnLXY3c3p3?oc=5) 東京新聞
 
@@ -35,6 +35,8 @@
 ○11月20日 [Japan tourism chief says easing IR requirements ‘difficult’ at this stage](https://news.google.com/rss/articles/CBMimwFBVV95cUxNTE9pXzMtYUlHOXZZYmVwZk91ZkcwZm9Dc1dXTjk5TElEeF8wdWI5WEQxdWlwMzlWeGtHNUdhcERmSGVjVGRBWFJ2eWstbnNkMXgwa1BwUXRmUFY3Z29haENneFhtaWhPbjc4MXlyQkZjeFpyamZETjVTSU1YZHZrY0RYSHc3aWxRTXdHaWFieUhvRDVwRGE3R0pCNA?oc=5) GGRAsia
 
 ○11月24日 [Tokyo Rules Out Casino, Hurting Japan’s 2027 Bidding Round](https://news.google.com/rss/articles/CBMijgFBVV95cUxOWXJ4MzVQU3ktUzhTZFNYSW5jLVVkNmxPTXduNEViM1JacjdqcmZIMDRxVUdjTk1pYlJBOUdKQmRzTVdvTmJCTVZMTFQtRWN3ZENHWFNWM0MzMHN2SV9rWGotTU1QWDVWOFFBdno5NUxLNEtIOUc2bHpTT2k2bUE3d2dqX0N0TlNydC1NN0JB?oc=5) Casino.org
+
+○11月25日 [Japan’s Fukuoka not able to start ‘immediately’ on an IR implemention policy: governor](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcWtwZWMxMGJteVRmR3JQb2RlNGUxQ0VTdTF2VjVuM1dicnhwRWJITGhUSWluaEVaSmVvTEt5d1Q1NDlUQWExaXFMM2pocXZnSHRUYjFZVHNVQjBEbmJjcWtwSU9BMkFJamJ1VGhpTDNZOTh0bmNYUzMwZTJKN3NTdGFUemx2SHdDMEhJSkRQX1dCMHRjcExRSmRtWXMyVU5MaVljRW1TVmxiQQ?oc=5) GGRAsia
 
 【東京都知事（小池百合子）】
 
