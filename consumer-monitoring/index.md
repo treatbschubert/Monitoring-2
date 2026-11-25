@@ -1,4 +1,4 @@
-更新日時: 2026年11月25日（水）19:50 JST
+更新日時: 2026年11月25日（水）19:55 JST
 
 【ニュース】
 
@@ -14,6 +14,8 @@
 
 ○11月25日 [朝鮮人虐殺、犠牲者追悼 小池都知事は追悼文送らず](https://news.google.com/rss/articles/CBMiekFVX3lxTE93aWN4TUtGbkNqU3RZRkxobzFSa053ZFVEMXc2OFBTU09QUnFyRXBFVHhBNG1OT0VCaXVzUkJYUWc4bFUzamxHR3k1bV90SThWeHZyb083WWpqbW4tOW1NX0hJdTBNZk1qekxnUnlKNGludGZFejBHZXlB?oc=5) 山陽新聞
 
+○11月25日 [朝鮮人虐殺、犠牲者追悼 小池都知事は追悼文送らず](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1JcFdTeXVrV1BpVm9IcHFDTkkxUEhhWVlaRVhoUG9XdXlvUkdTU2kyOElUdl9BUDk3c3h5SjJodTVhblVGa2lNZDJMTE5LUC1PTHRWWXd6dTdlVDJiNGc?oc=5) 山陽新聞
+
 ○11月25日 [サイバー対策などを補正予算編成に要望 知事に都議会会派](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9xNUIwbWUxRTdSSnJzX1Bid3hQdnhfRW5ZOU5PVEtieUZNNHI1LVc1UG1seXI2QklLbTIyeVNLdUZYRDBwbmxkbUZONTBnLXY3c3p3?oc=5) 東京新聞
 
 【日本国内のIR（統合型リゾート）関連ニュース】
@@ -23,8 +25,6 @@
 ○11月19日 [JR北海道の黄線区「IRで稼ぎ増やせば鉄路守れる」 苫小牧市長](https://news.google.com/rss/articles/CBMibEFVX3lxTE9ScEpxNVliMVZtcmNNTF8xdmlJYUs0X0pndEFUeGZBNlJLNEI1NjEzdkplUFBIOWFwekNGMzc5d25DYlotOG90Z2EwVHF2U1hqa2ZrR2FlZU15V2diY3FyUnBYR2ItTkpabHZPaw?oc=5) 日本経済新聞
 
 ○11月19日 [東京都、来年のIR誘致追加申請しない方針 調査費は予算計上へ](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBxRlpyTjFtbTRLa2VpeTM4YS1pWG4tN2p5UVF2TXdhSThFOTlocnBYMFU4aTdFU2Z1WWM0OWlXeXZDdXR4bWlmOXN6VzZxQmp3ZVNxYUVfa0tTMTZZQlpEYlRPeGFJVXhw?oc=5) 毎日新聞
-
-○11月20日 [Tokyo to forgo 2027 casino resort bid, plans to retain research budget](https://news.google.com/rss/articles/CBMimAFBVV95cUxOQ0lueG0ycDdLQ1l0d2VLRVF0R0FZSlkxb0hyMkN6bTNpUVlxRldRRDItMU04bHNwUUliV1BpX19nQnFseUdVaUwyLXFGR3NGaWIxQWJGLVY2TjJWeUpwUU5wRFhBSVJkZEpUTHREZTRjRGtyVUV2M2hrSFRidWRzanJHOGs0dlhEMGZZNmg3YUpvV3pJQ2xYTA?oc=5) GGRAsia
 
 ○11月24日 [Tokyo Rules Out Casino, Hurting Japan’s 2027 Bidding Round](https://news.google.com/rss/articles/CBMijgFBVV95cUxOWXJ4MzVQU3ktUzhTZFNYSW5jLVVkNmxPTXduNEViM1JacjdqcmZIMDRxVUdjTk1pYlJBOUdKQmRzTVdvTmJCTVZMTFQtRWN3ZENHWFNWM0MzMHN2SV9rWGotTU1QWDVWOFFBdno5NUxLNEtIOUc2bHpTT2k2bUE3d2dqX0N0TlNydC1NN0JB?oc=5) Casino.org
 
