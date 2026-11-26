@@ -1,4 +1,4 @@
-更新日時: 2026年11月27日（金）04:22 JST
+更新日時: 2026年11月27日（金）04:42 JST
 
 【ニュース】
 
@@ -7,6 +7,8 @@
 ○11月24日 [都議会4会派、防災やサイバー攻撃対策を知事に要望 補正予算案で](https://news.google.com/rss/articles/CBMibEFVX3lxTFB5cUlEVloySUs3aXZ5QzdPTmt0S1lITTFPWVljdjFFTGRSWFBCeDRJOG16aHN6Zmh6UWtfaE01Qk5ZanczWDJuWkl4WUNmdkQ5TlZnUzN3WVozLUJkREhwUTlpVTBkeXFJT1FZMw?oc=5) 日本経済新聞
 
 ○11月24日 [成績 台東学童都知事杯（11月23日）](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1HaEI3ajBnLU1ETldtVTF2NTdhN3l3N2h3Z2w5STZtNVRGVXBBZzlkY1JPSlhDWnJkUmh6RjNHeV82RHB2NEt0NDFoSXdjMzRMRkZn?oc=5) 東京新聞
+
+○11月25日 [朝鮮人虐殺、犠牲者追悼 小池都知事は追悼文送らず](https://news.google.com/rss/articles/CBMiekFVX3lxTE93aWN4TUtGbkNqU3RZRkxobzFSa053ZFVEMXc2OFBTU09QUnFyRXBFVHhBNG1OT0VCaXVzUkJYUWc4bFUzamxHR3k1bV90SThWeHZyb083WWpqbW4tOW1NX0hJdTBNZk1qekxnUnlKNGludGZFejBHZXlB?oc=5) 山陽新聞
 
 ○11月25日 [朝鮮人虐殺、犠牲者追悼 小池都知事は追悼文送らず](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1JcFdTeXVrV1BpVm9IcHFDTkkxUEhhWVlaRVhoUG9XdXlvUkdTU2kyOElUdl9BUDk3c3h5SjJodTVhblVGa2lNZDJMTE5LUC1PTHRWWXd6dTdlVDJiNGc?oc=5) 山陽新聞
 
