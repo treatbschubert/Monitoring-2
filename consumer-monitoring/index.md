@@ -1,8 +1,6 @@
-更新日時: 2026年11月26日（木）12:53 JST
+更新日時: 2026年11月26日（木）19:27 JST
 
 【ニュース】
-
-○11月22日 [成績 台東学童都知事杯（11月22日）](https://news.google.com/rss/articles/CBMiU0FVX3lxTE43TnRDXzVVS3dUUTNyWGtOR1FxaWhEZXBxZk0wSFlVVkFEcU1VVVV1bUxTWjFwUzR6S0dRV3hKZ0VmdF9aYkZaVndDdTVFT3R5YnJn?oc=5) 東京新聞
 
 ○11月24日 [＜防災庁発足 あすへ備える＞（下）小池百合子都知事インタビュー 首都直下対策、阪神・淡路に学ぶ](https://news.google.com/rss/articles/CBMibkFVX3lxTE9xZ05OTHlhZlhMcFdWY0ZZamtvbDk5UnhKd1hPWnZGbzR6aEdxbVZUS2RvZDFfcUxpTDZkNkJkbUdxVVB1YjFyQnp2RUMxU0pjYlVJQlR3RkhQM2xKb1lJanh0emdFWEMzOU54UTRR?oc=5) 神戸新聞
 
@@ -16,13 +14,13 @@
 
 ○11月25日 [小池百合子 若いころから人と違う道を選んできた （3ページ目）](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1mS09GVElFOFNQRDhlS1Y5Z21wWXZhS2xIc0JmSjlwNXFnUjZlaHBJUFhIbThkYzMxM29zbS15dzRReFBEWWhwMkhKRzBiTVhwS2RZWVN2RmVaRG9fenhv?oc=5) 日本経済新聞
 
+○11月26日 [地方税の再配分、小池都知事VS小野寺税調 法人事業税の扱い議論](https://news.google.com/rss/articles/CBMibEFVX3lxTE5BOFp3b21UVERjR3hsclZxM0dsSGttUTlFMkg1dWJLWVd2SF8xVUxndHNlS2ZTRTF2ZXB3b1czdUFhYnBIY2IzNEhJdFNVRVBuSU9aTVY0U1pJR25fLUFqVHo4Tnp5YUI3NTZiUg?oc=5) 日本経済新聞
+
+○11月26日 [台東学童都知事杯 七北クラブ「足攻」で逆転、2回戦へ](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9fbWJMRWtkVGxDZVVrb21WY1dwLTFZOUh4OG92elNHejhtU1VJV0ZwaEVZbHdxUnFaQ2RULVBackp1d1pvc1oyOWVxN3JleFNhRzFLRUppR2tjdm53dFJyT1hB?oc=5) 東京新聞
+
 【日本国内のIR（統合型リゾート）関連ニュース】
 
-○11月17日 [Japan’s Omura City eyes IR project with a ‘2030s’ opening schedule](https://news.google.com/rss/articles/CBMikAFBVV95cUxQMWFrN0k5dXhNZ3NZZEZEMGE4a0s5cklMcXk1TThsVU53OHVqQ3h3eUdiZTZkM2pxMnBCa0hTUV9ZSUtYZmR5ejRCekYzTUxtWkwyYmRHMkh0UHhOZTRhZWZJME91SVVOUUpGMnZ1RDRuQXFLbl94TF9ub3l6WXlqNWN6Tm91VmtwMVlSTGotOFk?oc=5) GGRAsia
-
 ○11月18日 [IR誘致の福岡・大任町長「複数事業者が関心」 県議会で3月議決を](https://news.google.com/rss/articles/CBMibEFVX3lxTE1jMHJMZWU1M1gybERPQUpRbmpKOUJtdFJxRm1EdG41RzBWaHpHamxmd0ZqN2d0UTRjVHFiaHBWcjdwSWtHQUZHeTJua1QzdXA0bVNuSHZnRTdYSnJSckcyOV81OHN2NTV1OFFUMQ?oc=5) 日本経済新聞
-
-○11月18日 [Hokkaido confirms it will skip 2027 IR application, seeks easing on facility requirements](https://news.google.com/rss/articles/CBMisgFBVV95cUxQVVFYZ3VDZ29ucFNPSVgzWUh4R0FvQmVnNnAxU3Zjd1lYYmRkZ21hUzVSSjRLdUhCWUd5MGcxRmNuOE9FN2NrUF8xa2ZCSEoyNWk2MjhzYy1YdUh5TzYtOUhNdVZ1NHR4RVVWX1IzV2VNYnl4QzNnOW5PcGM2Vm5FZ2g1VnYtaXB5QzR2QllrOUJ4MTRWdERUbmY5Z2FFdTdtRXNnR205cDZUT2EtSS1LNnRn?oc=5) GGRAsia
 
 ○11月19日 [JR北海道の黄線区「IRで稼ぎ増やせば鉄路守れる」 苫小牧市長](https://news.google.com/rss/articles/CBMibEFVX3lxTE9ScEpxNVliMVZtcmNNTF8xdmlJYUs0X0pndEFUeGZBNlJLNEI1NjEzdkplUFBIOWFwekNGMzc5d25DYlotOG90Z2EwVHF2U1hqa2ZrR2FlZU15V2diY3FyUnBYR2ItTkpabHZPaw?oc=5) 日本経済新聞
 
@@ -33,8 +31,6 @@
 ○11月20日 [Japan tourism chief says easing IR requirements ‘difficult’ at this stage](https://news.google.com/rss/articles/CBMimwFBVV95cUxNTE9pXzMtYUlHOXZZYmVwZk91ZkcwZm9Dc1dXTjk5TElEeF8wdWI5WEQxdWlwMzlWeGtHNUdhcERmSGVjVGRBWFJ2eWstbnNkMXgwa1BwUXRmUFY3Z29haENneFhtaWhPbjc4MXlyQkZjeFpyamZETjVTSU1YZHZrY0RYSHc3aWxRTXdHaWFieUhvRDVwRGE3R0pCNA?oc=5) GGRAsia
 
 ○11月24日 [Tokyo Rules Out Casino, Hurting Japan’s 2027 Bidding Round](https://news.google.com/rss/articles/CBMijgFBVV95cUxOWXJ4MzVQU3ktUzhTZFNYSW5jLVVkNmxPTXduNEViM1JacjdqcmZIMDRxVUdjTk1pYlJBOUdKQmRzTVdvTmJCTVZMTFQtRWN3ZENHWFNWM0MzMHN2SV9rWGotTU1QWDVWOFFBdno5NUxLNEtIOUc2bHpTT2k2bUE3d2dqX0N0TlNydC1NN0JB?oc=5) Casino.org
-
-○11月25日 [Japan’s Fukuoka not able to start ‘immediately’ on an IR implemention policy: governor](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcWtwZWMxMGJteVRmR3JQb2RlNGUxQ0VTdTF2VjVuM1dicnhwRWJITGhUSWluaEVaSmVvTEt5d1Q1NDlUQWExaXFMM2pocXZnSHRUYjFZVHNVQjBEbmJjcWtwSU9BMkFJamJ1VGhpTDNZOTh0bmNYUzMwZTJKN3NTdGFUemx2SHdDMEhJSkRQX1dCMHRjcExRSmRtWXMyVU5MaVljRW1TVmxiQQ?oc=5) GGRAsia
 
 【東京都知事（小池百合子）】
 
