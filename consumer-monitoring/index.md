@@ -1,4 +1,4 @@
-更新日時: 2026年11月26日（木）19:29 JST
+更新日時: 2026年11月27日（金）04:22 JST
 
 【ニュース】
 
@@ -8,25 +8,23 @@
 
 ○11月24日 [成績 台東学童都知事杯（11月23日）](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1HaEI3ajBnLU1ETldtVTF2NTdhN3l3N2h3Z2w5STZtNVRGVXBBZzlkY1JPSlhDWnJkUmh6RjNHeV82RHB2NEt0NDFoSXdjMzRMRkZn?oc=5) 東京新聞
 
-○11月25日 [朝鮮人虐殺、犠牲者追悼 小池都知事は追悼文送らず](https://news.google.com/rss/articles/CBMiekFVX3lxTE93aWN4TUtGbkNqU3RZRkxobzFSa053ZFVEMXc2OFBTU09QUnFyRXBFVHhBNG1OT0VCaXVzUkJYUWc4bFUzamxHR3k1bV90SThWeHZyb083WWpqbW4tOW1NX0hJdTBNZk1qekxnUnlKNGludGZFejBHZXlB?oc=5) 山陽新聞
-
 ○11月25日 [朝鮮人虐殺、犠牲者追悼 小池都知事は追悼文送らず](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1JcFdTeXVrV1BpVm9IcHFDTkkxUEhhWVlaRVhoUG9XdXlvUkdTU2kyOElUdl9BUDk3c3h5SjJodTVhblVGa2lNZDJMTE5LUC1PTHRWWXd6dTdlVDJiNGc?oc=5) 山陽新聞
 
 ○11月25日 [サイバー対策などを補正予算編成に要望 知事に都議会会派](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9xNUIwbWUxRTdSSnJzX1Bid3hQdnhfRW5ZOU5PVEtieUZNNHI1LVc1UG1seXI2QklLbTIyeVNLdUZYRDBwbmxkbUZONTBnLXY3c3p3?oc=5) 東京新聞
 
 ○11月25日 [小池百合子 若いころから人と違う道を選んできた （3ページ目）](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1mS09GVElFOFNQRDhlS1Y5Z21wWXZhS2xIc0JmSjlwNXFnUjZlaHBJUFhIbThkYzMxM29zbS15dzRReFBEWWhwMkhKRzBiTVhwS2RZWVN2RmVaRG9fenhv?oc=5) 日本経済新聞
 
-○11月26日 [地方税の再配分、小池都知事VS小野寺税調 法人事業税の扱い議論](https://news.google.com/rss/articles/CBMibEFVX3lxTE5BOFp3b21UVERjR3hsclZxM0dsSGttUTlFMkg1dWJLWVd2SF8xVUxndHNlS2ZTRTF2ZXB3b1czdUFhYnBIY2IzNEhJdFNVRVBuSU9aTVY0U1pJR25fLUFqVHo4Tnp5YUI3NTZiUg?oc=5) 日本経済新聞
+○11月26日 [法人事業税、自民税調が地方に再分配提起 都連は小池知事援護で反対](https://news.google.com/rss/articles/CBMibEFVX3lxTE5BOFp3b21UVERjR3hsclZxM0dsSGttUTlFMkg1dWJLWVd2SF8xVUxndHNlS2ZTRTF2ZXB3b1czdUFhYnBIY2IzNEhJdFNVRVBuSU9aTVY0U1pJR25fLUFqVHo4Tnp5YUI3NTZiUg?oc=5) 日本経済新聞
 
-○11月26日 [台東学童都知事杯 七北クラブ「足攻」で逆転、2回戦へ](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9fbWJMRWtkVGxDZVVrb21WY1dwLTFZOUh4OG92elNHejhtU1VJV0ZwaEVZbHdxUnFaQ2RULVBackp1d1pvc1oyOWVxN3JleFNhRzFLRUppR2tjdm53dFJyT1hB?oc=5) 東京新聞
+○11月26日 [台東学童都知事杯 七北クラブ「足攻」で逆転、2回戦へ](https://news.google.com/rss/articles/CBMiU0FVX3lxTE52cmpaMGJDajJNYlBHLUt1cTBSUklwOEJhNDRLeUR1ZVA1Vm1Rd2FlZEpVcFR6R0w1UFpwaVRsMHZGWGw3R1VFb0pzUlBFZDNCemJ3?oc=5) 東京新聞
 
 【日本国内のIR（統合型リゾート）関連ニュース】
 
 ○11月17日 [Japan’s Omura City eyes IR project with a ‘2030s’ opening schedule](https://news.google.com/rss/articles/CBMikAFBVV95cUxQMWFrN0k5dXhNZ3NZZEZEMGE4a0s5cklMcXk1TThsVU53OHVqQ3h3eUdiZTZkM2pxMnBCa0hTUV9ZSUtYZmR5ejRCekYzTUxtWkwyYmRHMkh0UHhOZTRhZWZJME91SVVOUUpGMnZ1RDRuQXFLbl94TF9ub3l6WXlqNWN6Tm91VmtwMVlSTGotOFk?oc=5) GGRAsia
 
-○11月18日 [IR誘致の福岡・大任町長「複数事業者が関心」 県議会で3月議決を](https://news.google.com/rss/articles/CBMibEFVX3lxTE1jMHJMZWU1M1gybERPQUpRbmpKOUJtdFJxRm1EdG41RzBWaHpHamxmd0ZqN2d0UTRjVHFiaHBWcjdwSWtHQUZHeTJua1QzdXA0bVNuSHZnRTdYSnJSckcyOV81OHN2NTV1OFFUMQ?oc=5) 日本経済新聞
-
 ○11月18日 [Hokkaido confirms it will skip 2027 IR application, seeks easing on facility requirements](https://news.google.com/rss/articles/CBMisgFBVV95cUxQVVFYZ3VDZ29ucFNPSVgzWUh4R0FvQmVnNnAxU3Zjd1lYYmRkZ21hUzVSSjRLdUhCWUd5MGcxRmNuOE9FN2NrUF8xa2ZCSEoyNWk2MjhzYy1YdUh5TzYtOUhNdVZ1NHR4RVVWX1IzV2VNYnl4QzNnOW5PcGM2Vm5FZ2g1VnYtaXB5QzR2QllrOUJ4MTRWdERUbmY5Z2FFdTdtRXNnR205cDZUT2EtSS1LNnRn?oc=5) GGRAsia
+
+○11月18日 [IR誘致の福岡・大任町長「複数事業者が関心」 県議会で3月議決を](https://news.google.com/rss/articles/CBMibEFVX3lxTE1jMHJMZWU1M1gybERPQUpRbmpKOUJtdFJxRm1EdG41RzBWaHpHamxmd0ZqN2d0UTRjVHFiaHBWcjdwSWtHQUZHeTJua1QzdXA0bVNuSHZnRTdYSnJSckcyOV81OHN2NTV1OFFUMQ?oc=5) 日本経済新聞
 
 ○11月19日 [JR北海道の黄線区「IRで稼ぎ増やせば鉄路守れる」 苫小牧市長](https://news.google.com/rss/articles/CBMibEFVX3lxTE9ScEpxNVliMVZtcmNNTF8xdmlJYUs0X0pndEFUeGZBNlJLNEI1NjEzdkplUFBIOWFwekNGMzc5d25DYlotOG90Z2EwVHF2U1hqa2ZrR2FlZU15V2diY3FyUnBYR2ItTkpabHZPaw?oc=5) 日本経済新聞
 
