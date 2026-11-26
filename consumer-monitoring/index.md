@@ -1,4 +1,4 @@
-更新日時: 2026年11月26日（木）10:12 JST
+更新日時: 2026年11月26日（木）10:18 JST
 
 【ニュース】
 
@@ -20,11 +20,7 @@
 
 【日本国内のIR（統合型リゾート）関連ニュース】
 
-○11月17日 [Japan’s Omura City eyes IR project with a ‘2030s’ opening schedule](https://news.google.com/rss/articles/CBMikAFBVV95cUxQMWFrN0k5dXhNZ3NZZEZEMGE4a0s5cklMcXk1TThsVU53OHVqQ3h3eUdiZTZkM2pxMnBCa0hTUV9ZSUtYZmR5ejRCekYzTUxtWkwyYmRHMkh0UHhOZTRhZWZJME91SVVOUUpGMnZ1RDRuQXFLbl94TF9ub3l6WXlqNWN6Tm91VmtwMVlSTGotOFk?oc=5) GGRAsia
-
 ○11月18日 [IR誘致の福岡・大任町長「複数事業者が関心」 県議会で3月議決を](https://news.google.com/rss/articles/CBMibEFVX3lxTE1jMHJMZWU1M1gybERPQUpRbmpKOUJtdFJxRm1EdG41RzBWaHpHamxmd0ZqN2d0UTRjVHFiaHBWcjdwSWtHQUZHeTJua1QzdXA0bVNuSHZnRTdYSnJSckcyOV81OHN2NTV1OFFUMQ?oc=5) 日本経済新聞
-
-○11月18日 [Hokkaido confirms it will skip 2027 IR application, seeks easing on facility requirements](https://news.google.com/rss/articles/CBMisgFBVV95cUxQVVFYZ3VDZ29ucFNPSVgzWUh4R0FvQmVnNnAxU3Zjd1lYYmRkZ21hUzVSSjRLdUhCWUd5MGcxRmNuOE9FN2NrUF8xa2ZCSEoyNWk2MjhzYy1YdUh5TzYtOUhNdVZ1NHR4RVVWX1IzV2VNYnl4QzNnOW5PcGM2Vm5FZ2g1VnYtaXB5QzR2QllrOUJ4MTRWdERUbmY5Z2FFdTdtRXNnR205cDZUT2EtSS1LNnRn?oc=5) GGRAsia
 
 ○11月19日 [JR北海道の黄線区「IRで稼ぎ増やせば鉄路守れる」 苫小牧市長](https://news.google.com/rss/articles/CBMibEFVX3lxTE9ScEpxNVliMVZtcmNNTF8xdmlJYUs0X0pndEFUeGZBNlJLNEI1NjEzdkplUFBIOWFwekNGMzc5d25DYlotOG90Z2EwVHF2U1hqa2ZrR2FlZU15V2diY3FyUnBYR2ItTkpabHZPaw?oc=5) 日本経済新聞
 
@@ -35,8 +31,6 @@
 ○11月20日 [Japan tourism chief says easing IR requirements ‘difficult’ at this stage](https://news.google.com/rss/articles/CBMimwFBVV95cUxNTE9pXzMtYUlHOXZZYmVwZk91ZkcwZm9Dc1dXTjk5TElEeF8wdWI5WEQxdWlwMzlWeGtHNUdhcERmSGVjVGRBWFJ2eWstbnNkMXgwa1BwUXRmUFY3Z29haENneFhtaWhPbjc4MXlyQkZjeFpyamZETjVTSU1YZHZrY0RYSHc3aWxRTXdHaWFieUhvRDVwRGE3R0pCNA?oc=5) GGRAsia
 
 ○11月24日 [Tokyo Rules Out Casino, Hurting Japan’s 2027 Bidding Round](https://news.google.com/rss/articles/CBMijgFBVV95cUxOWXJ4MzVQU3ktUzhTZFNYSW5jLVVkNmxPTXduNEViM1JacjdqcmZIMDRxVUdjTk1pYlJBOUdKQmRzTVdvTmJCTVZMTFQtRWN3ZENHWFNWM0MzMHN2SV9rWGotTU1QWDVWOFFBdno5NUxLNEtIOUc2bHpTT2k2bUE3d2dqX0N0TlNydC1NN0JB?oc=5) Casino.org
-
-○11月25日 [Japan’s Fukuoka not able to start ‘immediately’ on an IR implemention policy: governor](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcWtwZWMxMGJteVRmR3JQb2RlNGUxQ0VTdTF2VjVuM1dicnhwRWJITGhUSWluaEVaSmVvTEt5d1Q1NDlUQWExaXFMM2pocXZnSHRUYjFZVHNVQjBEbmJjcWtwSU9BMkFJamJ1VGhpTDNZOTh0bmNYUzMwZTJKN3NTdGFUemx2SHdDMEhJSkRQX1dCMHRjcExRSmRtWXMyVU5MaVljRW1TVmxiQQ?oc=5) GGRAsia
 
 【東京都知事（小池百合子）】
 
