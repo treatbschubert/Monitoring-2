@@ -1,4 +1,4 @@
-更新日時: 2026年11月27日（金）09:23 JST
+更新日時: 2026年11月27日（金）09:25 JST
 
 【ニュース】
 
@@ -26,8 +26,6 @@
 
 ○11月13日 [「将来の依存症リスクを高めかねない」大阪府・市後援イベントの子どもの“カジノ体験”に支援団体が激怒…教育委員会のあきれた言い分（女性自身）](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVlVPM2h4bENrLUZxQVJnelFBa3gtREM4QUZkYmVCSEZkVkljbnZ0NFZfUkRZZFhES1FJOEhfQ3c1WTRSN2lLcElYNDR2YUduN19pd2NqZGQ2amdCMzBtZGFQYmVKNE5NRlk1S1ZNelplOHd1S2dOYTVxMFI5UUhpRW1zVzRtdzZZ?oc=5) Yahoo!ニュース
 
-○11月13日 [オンラインカジノで賭博 元警察官の男を常習賭博の罪で起訴 県警調べでは勤務中などに450回アクセス3000万円賭ける【愛媛」](https://news.google.com/rss/articles/CBMif0FVX3lxTE5KZHZtTmRXTEgtdmhLcEVaWEx1WTdEbFY2WWszUjY2RmNkWGFvUkxwLWRNc2xHbXZsVElBTEtVWlRlWUpUaEZWQUhqeXhqQWdrMUlyLTRpVEU4UHVvdmU1dHRGeE43QjdNR2JnY1EyckpNcFFndHd3VV9EZ01HbTg?oc=5) Yahoo!ニュース
-
 ○11月13日 [「IRが資金源にならぬよう」 大阪で暴力団追放大会 元内閣危機管理監の村田隆氏が講演](https://news.google.com/rss/articles/CBMidkFVX3lxTE83LWxaY1ZYVUw4Zk1Dc000VGx1YXhlMng2bjlBZXlqcERNYnQ0bUlrbGliNXdCM2Z2UFViZEhGdjBVanFYdFNrTm1FN0VHMHpzbVZFcmFtVUI1VmNPVE5XSjRtVFNER3BYaWRydW1WNHdmajFZekE?oc=5) 産経ニュース
 
 ○11月13日 [「IRが資金源にならぬよう」 大阪で暴力団追放大会 元内閣危機管理監の村田隆氏が講演 (産経新聞)](https://news.google.com/rss/articles/CBMijgFBVV95cUxPaEJ5VC1VSkpCSWJCeElSTHFwRkRyVFI3aG9wRFBGTU9EX1NPcWRnelBvQk9FMFFPaXFCSGEtRW1UMHg2MDlGV3R6R0ZBQi1POXBWVVNZV3Q0Y0VoOGdKYlVNRHc2QjE0MFk1YkxKR2ltS3ZnNGVrSm1zZDdrbjZ6dzU5aEtJbnhKRnd4SjdB?oc=5) Yahoo!ニュース
@@ -40,27 +38,21 @@
 
 ○11月16日 [「複数の候補地が大村市内に」 カジノを含むIR誘致をめぐり検討協議会が中間報告](https://news.google.com/rss/articles/CBMidEFVX3lxTFB2YlduRC0tTUQ1WjNJMGVyYjJERmNDXzAycFdvc0JGbEpacVpaaGVHME1mNkNONW5qaXpRSFZyZjJQTXU3anpHTllrdzBfSHhWdU9aeXp3SlFKWWNySHlwNHJDRk9aQk5TaWtXSmR6b3FhZVAw0gF6QVVfeXFMUEJTaGwwcWppQ1FIRWc2WkxjZVdpRXotdjd2R2NaLVJqYVBKUGxsQko5akRFNlN3MmYwbVpteUZ0aHNTRDQ1N2ptQzRzaWhfdDBGa25pRDVvMDhCa1pmOWJJYkdlcDRQcUdBaUhrbzNMeEk1cDdSTmkyNVE?oc=5) ｄメニューニュース
 
-○11月17日 [ＩＲ基本構想案を中間報告…候補地は大村市内の複数検討、長崎県内への誘致目指す協議会（長崎新聞）](https://news.google.com/rss/articles/CBMif0FVX3lxTFB5cHZ2VzM1WENPRjV2WW9ZMEIzLVFwMTJqYjlnbU9HRlMteW9sZ1FMV3NfelpkTF9ITTV4MXpwdkotbHFiREs1alZ2a01vUkI0X2l6SV9hUV9oR201dklKLWZpMy02b1o1OEdCc2hYZk9Ndk9ab1hCeWpVc25jXzQ?oc=5) Yahoo!ニュース
-
-○11月17日 [苫小牧一丸でＩＲの実現を 市と商議所、２７日に推進協設立](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBZTnhsaTI5ZTJLMmRLbVBLaDR2anhYcWltQzJoazNvSHpiX2xyRmZfSnhLak1FUjZZZHlZYnNiWUF4aHloNmtsR1l6QQ?oc=5) 47NEWS
+○11月17日 [ＩＲ基本構想案を中間報告…候補地は大村市内の複数検討、長崎県内への誘致目指す協議会 (長崎新聞)](https://news.google.com/rss/articles/CBMijgFBVV95cUxORl9aTGxGOGZPWEoybzlGMzFwNVlKcDFTeGlIbEk0cTRISU9XcFNuOTRvN3V4RTZCcXJLcDRsNkU5T0RGTF8xdzVEcnQyUVdmNzlRZ055U3FXREdRX25QMjQzQXRtMExDaTFKaGdzUW9PRUc5SDB5U0hMSGI3SG5UWS1iVWhCVjlrVzljWDZR?oc=5) Yahoo!ニュース
 
 ○11月17日 [ＩＲ基本構想案を中間報告…候補地は大村市内の複数検討、長崎県内への誘致目指す協議会](https://news.google.com/rss/articles/CBMiS0FVX3lxTE5iaUx0bFRlSTZ3MUZMY3k1Z3BtdjYwWVRfeHdrdTVTNjhEdEpzQlFZNUhkR0x6SVJGemxUTHFFeDZZRm1valJJUnBvUQ?oc=5) 47NEWS
+
+○11月17日 [苫小牧一丸でＩＲの実現を 市と商議所、２７日に推進協設立](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBZTnhsaTI5ZTJLMmRLbVBLaDR2anhYcWltQzJoazNvSHpiX2xyRmZfSnhLak1FUjZZZHlZYnNiWUF4aHloNmtsR1l6QQ?oc=5) 47NEWS
 
 ○11月17日 [Omura advances Japan casino resort plan for 2030s opening](https://news.google.com/rss/articles/CBMicEFVX3lxTE54bUtIX3JoU3V5amhjVEt3NFF3dHRyS2VkM3FELUZ6WENmSS1CSm5QaEduZ3RXdlVIVE51Ny1FTXhCUzhnc0JvT3dWb2hSbno3WC1faXF5alhqOHFZOEFSWFhoMUlRTW9EWGVScWtsUFY?oc=5) Focus Gaming News
 
 ○11月18日 [大村IR「候補地は複数」 検討協 1月にも長崎県、大村市に要望へ](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ZR29iRHUzLUc5LUlzRVZVdXNERTlGNGFpLXNhRUJUWEoxVmxKZy1ZMGtmQ05tZnhQOVpCakFQVkFWTU9WcUx2SmtWSkdUXzk0cUV3aTN3?oc=5) 西日本新聞me
-
-○11月18日 [大村湾グリーンIRの基本構想案についての中間報告集会 - 大村IR「候補地は複数」 検討協 1月にも長崎県、大村市に要望へ - 写真・画像(1/1)](https://news.google.com/rss/articles/CBMiV0FVX3lxTFByNEoyZFFEYV9WOFE5cUFBQ0lFZ2R1b0t3ZVpwdU9xT05fT0cxT3dQZnNNQjB0dlBxcEtXU2NWcVZTN0JVa3BCZ0VfbldZd3RlbWxvQnIzTQ?oc=5) 西日本新聞me
-
-○11月18日 [オンラインカジノを運営 １７人の賭客から賭け金として現金およそ１４００万円を他人名義の口座に振り込ませたか ２人の男が逮捕 静岡県警（静岡朝日テレビ）](https://news.google.com/rss/articles/CBMif0FVX3lxTFBGTVFzeFpkSjMyQ0s4aGpGXzFYN3BTdlJHRERYTDQ3amRSdWZQVHh2NXV3cUYtdkVLX2pOY1dGaGNCUUFkN1BUQVlQMHk5aXlkNEVvY3h1dE9LR2tHby0ybXNJT2NRUXNMVktBd2x2T2hiajNGQUNvTUlodUdOUkk?oc=5) Yahoo!ニュース
 
 ○11月18日 [ギャンブル依存症家族の会村田氏「福岡にカジノいらず」 無理解懸念](https://news.google.com/rss/articles/CBMibEFVX3lxTE5GMHRGMDVzRmhzYTZ1eVhfT1pPM3YxOVI1QWZ1NFVXM21Gby1zeDhqOVdQWnpvS3lDeFVudWlrMl80NzByQlhrb1hYWW1NSXBmZUpJUDFMdV9DTDZaYVVlTkpGMkFzVnh5eWd4YQ?oc=5) 日本経済新聞
 
 ○11月18日 [IR誘致の福岡・大任町長「複数事業者が関心」 県議会で3月議決を](https://news.google.com/rss/articles/CBMibEFVX3lxTE1jMHJMZWU1M1gybERPQUpRbmpKOUJtdFJxRm1EdG41RzBWaHpHamxmd0ZqN2d0UTRjVHFiaHBWcjdwSWtHQUZHeTJua1QzdXA0bVNuSHZnRTdYSnJSckcyOV81OHN2NTV1OFFUMQ?oc=5) 日本経済新聞
 
 ○11月18日 [鈴木知事要請のIR基準緩和 観光庁長官「現段階は困難」](https://news.google.com/rss/articles/CBMiWkFVX3lxTE4xcGpaUHVpMDI4ejUxNXhXVFRTZWZ2UkxtcnFRZ0FLeFhjUmlDc2lRR28tZ3dJelRlRVJoeHJiY1VrTDdjUG1sQVBJVWpFTTJSTzNBcGhqX3BuQQ?oc=5) 北海道新聞デジタル
-
-○11月18日 [オンラインカジノ｢リアスロ｣ 違法賭け金の隠匿容疑で2人を再逮捕 静岡県警](https://news.google.com/rss/articles/CBMiTkFVX3lxTFBfRm9zN0hCaTBwemZTWmQyTExkbzUyalRzaFo2eHZtaWxvV2pPbDlYZHg5T1dEeVVKMDJCTlhVODlkQjNvN0ZKVlhvTktWZw?oc=5) 静岡新聞DIGITAL
 
 ○11月18日 [Hokkaido skips Japan’s 2027 IR bid over strict MICE facility rules](https://news.google.com/rss/articles/CBMifkFVX3lxTFBZOWZmcnhxc2xMZHB3S19QSVFmVnE5LTh2NkZEa3lkVzhMLUJ4NTg1d1pDSzd1Wkp6TV9LeEd4c2ZORUx0djlFNWNvVjlHa0VCUHpud3dWWjlpUm40WVphSHFYNW0xY1c4eExHUjREdGdkMXZuWXZxU0lfY0JrUQ?oc=5) Focus Gaming News
 
@@ -72,17 +64,17 @@
 
 ○11月19日 [ギャンブル依存の相談最多 大阪、IR開業に向け実証](https://news.google.com/rss/articles/CBMidkFVX3lxTE0tQlh4R0lhNDRqb0d1MElyNW1Ral9PVFVlSGlkS3VNbUw0aDdSWXAwQmVzYmNCRmdrUXloMFYySzRSYngxTFVZUlBXLV9kWkFhcjZ6SkszcVNndjZEbEk1OVJ5ZEVpS0t2N1RmUmd6aHM4Z3ZYbnc?oc=5) 産経ニュース
 
-○11月19日 [ギャンブル依存の相談最多 大阪、IR開業に向け実証（写真・画像 1/1）](https://news.google.com/rss/articles/CBMiogFBVV95cUxQSGVLb1o3Nkh0bnFsbVNuTGI1VjI5cnBwVVZsUGJyUXJqUHJrY0JGeTUweUpreHVFQW4xU3dWRVo2cmNYYjdUQllYTTdXd0lwQjdRNVlXbWNtWnI3cWlHRE5IR20ycmd5ZW1ONUhWWTV3M1lLMFF1RmloeUF5MkxKQjJHOGR6Yk1QdEd4ZDUxemFSMkY0b2JPdFdROUJuVXNmZVE?oc=5) 産経ニュース
-
 ○11月19日 [Hokkaido Seeks Changes to Japan’s Casino Resort Facility Rules](https://news.google.com/rss/articles/CBMingFBVV95cUxPakZYOE5ydEM2V0dVT054YXdaM21NSVB4cW5oTlBobW8zLXFXSU00UkNaaTZwdTd1UWVZeXpVaWRNb1JvWU1melhYeWgwbjVhU2NRU1hvakgtaVByZnkycFlsV0doR1FIbzJkc0JqbEJ6Ni01WUc2R1pNQmQzYUUzcnRaeWRfM3pTZ0FlQ3psYzd0Ymhhc2ZTN0ZPdWJUZw?oc=5) World Casino News
 
-○11月19日 [東京都、来年のＩＲ追加申請せず](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNWHpVTGItOXZNSlZiX1FwVnhuX29HVEh6UXlLX0FFNUJMekxCWk9jUXhlSjNWWExFSjNuTFlIX2t4YmF2VkgwbWpZckhZOEUzYmpseFN5RDUxSHc?oc=5) 下野新聞社
+○11月19日 [東京都、来年のＩＲ追加申請せず](https://news.google.com/rss/articles/CBMiWEFVX3lxTE8zWHJsZHBJVS1zSS1ZSGh6WWMwb29jS25SYUliZzZjV2pRVHRXNGhhZW96bDU2NjEzUTJtUU0tZnpuRzZBTDF3b0Z2dWRtbDNYOUdnR291V3I?oc=5) 京都新聞デジタル
+
+○11月19日 [【速報】東京都、来年のIR追加申請せず](https://news.google.com/rss/articles/CBMiS0FVX3lxTE5JX2RHMmlyRXpQcVE4MzZTVTFVSFJkS2w3UWhpa2c0QUctalo4b25GSk8wbjlGMVR5OTVUXy1XY1BNcVJqSkFzaV9wRQ?oc=5) 47NEWS
 
 ○11月19日 [東京都、来年のIR追加申請せず（共同通信）](https://news.google.com/rss/articles/CBMif0FVX3lxTE54aUJJUHpXTjhmcHFMRFY4d0k1ZWswMGZIVWE0N0ZKcVE3ejBNY3FuUDA2OTVaSXdqZTBjT3ZWQUxZSGM3TjU0Rl80bmdQaVZQVzVDUE5ORDVJZUxSemdoYnhFcDVoU1NGOUVJOTdJSVZYU2Z0RFRIUEc2TUdMTWs?oc=5) Yahoo!ニュース
 
-○11月19日 [東京、ＩＲ申請しない方針 来年追加期間、調査は継続](https://news.google.com/rss/articles/CBMiX0FVX3lxTE8zaEE3dzhuVFlHVE9lbnhSTVV6c0h2RnV4X0ZGT0U3bmFRRE1wU1VDYjFqRU9NRXd0QkNzX09MUnVuTTJFZTJuR0hXZ0VQN19xVEZ3MTRGdXBwUERvYnVz?oc=5) 高知新聞
+○11月19日 [東京、ＩＲ申請しない方針](https://news.google.com/rss/articles/CBMiV0FVX3lxTFBCblNRNkdFR2dIOVZ4WldwTk1zRnpaWWtkUVVKYmNVTmk1Wm00Z293bHR6MzNTQUNhRWRvYnIwVnQ5d3lIZEJub3RMVTdWeHh2SFhyZGl5Zw?oc=5) 埼玉新聞
 
-○11月19日 [東京、ＩＲ申請しない方針](https://news.google.com/rss/articles/CBMiWEFVX3lxTE9YVUp6RGY0eDBySjZIZk9yX0NKTmRraUFXem9OREVYeFp0RnAyUm93dFZOQnNJLXBkck5CeC0tWVB3YW9qYUQydDExbEIyMGRjVFByU21xbEo?oc=5) 京都新聞デジタル
+○11月19日 [東京、ＩＲ申請しない方針 来年追加期間、調査は継続](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9RY2Zma29henVTcVBnOGF0dThCNGppNUt3LVA0ZDVRMjFwNldoWXVYdDB4Qk0xMnAwc3ZCUDhwNGN3Yl9KcUhuN0VnMFNVTXlPVmkxYw?oc=5) 中日新聞Web
 
 ○11月19日 [東京都、IR申請しない方針 来年追加期間、 ギャンブル依存症など調査費は計上](https://news.google.com/rss/articles/CBMidkFVX3lxTE9hXzdwRjhBRnMzUzlra3ZtOENjM2ZTeDV1S3ZEdGRfTWJZMVZad3dYQy1UVjQtb1NDdkhOeG1GY050Yy0zZ1paUFY2Y2QzSnl6RUxfa1ZheEt5UEU3Wm8wYThmVnFVXzVKcktpREtXWmx6enZlWGc?oc=5) 産経ニュース
 
@@ -118,35 +110,13 @@
 
 ○11月25日 [福岡・大任町のIR計画、服部知事が改めて慎重姿勢](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5zUGF2eGhiaGU5QU5LUklmNFdaMjlQWGZlZlUwUnNRUElOSkZNUm5SckpJYVRaaDVZSUxwZUhya1VGeUd1czgxZl9jUjl1czNhM1FBd0d3?oc=5) 西日本新聞me
 
-○11月25日 [大任町（地図） - 福岡・大任町のIR計画、服部知事が改めて慎重姿勢 - 写真・画像(1/1)](https://news.google.com/rss/articles/CBMiV0FVX3lxTE5jSGlsaWRIbGtUcnh1Y2lKakRmanhOV215OTVZRV9SMVk2TDd3S003dlNKaUFzb0ZWeEl4QjQ0TzB0UmFueEpGUnVmWVhEVDdobnJBVy1Lbw?oc=5) 西日本新聞me
-
 ○11月25日 [大任町のＩＲ誘致構想「想定する経済波及効果が専門家の検証を受けておらず民間事業者との接触もない」…知事が明らかに](https://news.google.com/rss/articles/CBMijgFBVV95cUxNaUkwMUg0RjE5WHY3SGtnMVhreDlmRDYydWs5NFRsRTNkS1d4QjZUT3hxNTFLMWJPRjJ1N3BIaVdGZTNmSFYwdGhZMVNHTFEzNUFKeTl5S0ZfOFlVbjM3SHJndVgwVWZDMTF0YXRfT0JZQU5EejBweUt3TDdmM1FnRlZ4UVM3QThkVHhMNTBR?oc=5) Yahoo!ニュース
-
-○11月25日 [オンラインカジノで賭博繰り返した新潟簡裁の判事に「罷免判決」弾劾裁判で戦後9人目](https://news.google.com/rss/articles/CBMihgFBVV95cUxONVFiWGV1RERDV081RTZ5RWxEWXFUV3BteURReVVLV05PNl9saml4TWRoalNtdnJ1eExzaFhVLXh1OXBiSkM4U2FqNTNvcV80Q3d1Mzcwb0RaZmZsaHhLRHFad2l0WEVPbllYTHZRUE1Qb1ZvNktmb2JVLXl3MXp1cU14MWt0QdIBhgFBVV95cUxONVFiWGV1RERDV081RTZ5RWxEWXFUV3BteURReVVLV05PNl9saml4TWRoalNtdnJ1eExzaFhVLXh1OXBiSkM4U2FqNTNvcV80Q3d1Mzcwb0RaZmZsaHhLRHFad2l0WEVPbllYTHZRUE1Qb1ZvNktmb2JVLXl3MXp1cU14MWt0QQ?oc=5) ｄメニューニュース
-
-○11月25日 [オンラインカジノで賭博繰り返した新潟簡裁の判事に「罷免判決」弾劾裁判で戦後9人目（弁護士ドットコムニュース）](https://news.google.com/rss/articles/CBMif0FVX3lxTE00MDd5ckZGVkxaX0NEa3NMOGhKa09VNEZnNE5qeERIMEoyT1M0U1FmZWZVbm5uZEs3NjAtbDczOGYxMWMtUWVBWkZrX1ozRWVZeUhNZlRwYUtCWEpuajV2VDdsN3dROE9OZ21qcDhKcFFNSnBNeC1HajdYYmtJTkk?oc=5) Yahoo!ニュース
-
-○11月25日 [【速報】オンラインカジノの新潟簡裁判事を罷免](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9HOWg5eXdtMW13Y1JIZU00TjFjZmFpTi1QOG5EcmltQnBzQXF2RjV3dWVsdHlwd2dyVDdYbHJVeHp0NnktUHl5NE9TTQ?oc=5) 47NEWS
-
-○11月25日 [オンラインカジノの新潟簡裁判事を罷免](https://news.google.com/rss/articles/CBMiWEFVX3lxTE9zOURVX3N0dWI2WHB1d0htZDJqTEhLYl9EWVd3cWdKSW95THhLOFRYbzFwNS1IN3NpRW0tUWYzcmZaVWVvSnlsZnBBTHJqMlBjRFpIYm96MHo?oc=5) 京都新聞デジタル
-
-○11月25日 [オンラインカジノサイト常習賭博で有罪の新潟簡裁判事、国会の弾劾裁判所が罷免「威信を著しく失う行為」](https://news.google.com/rss/articles/CBMiZkFVX3lxTFBnZlZaNmkwZERVbERxRjQ3cVIwcGhkN2ktdmNSYW43Ynh3dllBYjRIaWVESDFkaEtkOUpJVk9haGI1NUo4RFl0SU5jSGtFcnZmVUhfSXpqTmNabmhsMUZRemtSNHV0dw?oc=5) 読売新聞
-
-○11月25日 [オンラインカジノサイト常習賭博で有罪の新潟簡裁判事、国会の弾劾裁判所が罷免「威信を著しく失う行為」 (読売新聞オンライン)](https://news.google.com/rss/articles/CBMijgFBVV95cUxQUlZJZGlXeFBRT3VqTmg2TWhnN3JrRXE2b0FqSnNwZ1F1Q3JMLWpSMDdtaFVXSUpneVEyblVGaU1HQUstWHlrWFA3R1NtWV9qWnBrYnRWQXRWVm5RSzM1cmRkN3ctS0pZeEhuYWJHOWdhWm1aWUdQTWd4bzFTNVNNS0NRYjU5bllTQ0tvdnVR?oc=5) Yahoo!ニュース
 
 ○11月25日 [Fukuoka Not Ready to Start Work on Oto IR Plan, Governor Says](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNaEVxS3lLemdBRFFiUF9GQk1ILXdRTU5hazIzalFEbHRHWU9hNmVUS20tV1dWYVFpSkRKNFFWYTU0ZDMwWWVlbXdzbGFGWm8wemd5d0xnemh5NmNjTUJlOWtjRTB0MzR0eDdNX1JqS0FEbW1YWTFUNjgtdDBmVUNxYmdIOVZHTzFhWmI5bk9lcENqNjhVSkRncmNGS01SZmdoTUVaR0puaWRldXpEY2piZjJMU0dIb1FkdjlwUEc5Tk5mVDdySld4UzJGOFY0dFlCeUVHYUF2UQ?oc=5) Asia Gaming Brief
 
-○11月25日 [新潟簡裁判事を罷免、戦後9人目 オンラインカジノ賭博 弾劾裁判（時事通信）](https://news.google.com/rss/articles/CBMif0FVX3lxTE9rNXpIX291SHpOaFcyWExOWVNzZHZDM2ZMeE1FZ254OEFjSmptR3R4N0FfY0VhTC1ac0d1WUQ4LVlGN21BY3IxaEtETmVOZ0hZbnJtdTRHc3RVWjN2WUhzZmJQRW51SU1iQ2J6Z2VkcHFTU0N1UkFpblNqbVRVY2s?oc=5) Yahoo!ニュース
-
 ○11月25日 [北海道苫小牧市長、IR誘致を目指し協議会設置へ 依存症対策など含めて市民の理解を促す狙い](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1LLURjQ3J6Q3VVbjhlSVRmQTdGcTVoQ0hvWUJ5TTA3MEZMcUZ6NmxhanMtUVg3LU5yMFRsZ0ZpWjF1SXNvdFQ1UUg0LVkzZEoybHFoZXZUMEUydw?oc=5) HTB北海道テレビ
 
-○11月25日 [【弾劾裁判】オンラインカジノ賭博で有罪、新潟簡裁判事を罷免判決「動機や経緯を含め言語道断」](https://news.google.com/rss/articles/CBMiS0FVX3lxTE54LWZKOGVoOS1rRW1wLXp2YTUzRF9MdUNOV0pLVkZ4WVppeVJid2I1aTFRREhQUS04LXUyRW1HN2tYMmVMUEctbDdJTQ?oc=5) 47NEWS
-
 ○11月25日 [Fukuoka puts Japan IR casino bid on hold, risking November 2027 deadline](https://news.google.com/rss/articles/CBMie0FVX3lxTE5JMTY3WEx0UnhsT3kwZERnZ0MxQnQ5b0xrN2t5ZGoxYkxLb2NPMExrZFhmZ2tPcmVYandJZElDU0hYTmh5LVBoN0VoWmJ2QXp1QTUyb19rUDJFUFVjMll3ellodXZrdWFPUzMtVmlzaUZqNk9sakYxODhlMA?oc=5) Focus Gaming News
-
-○11月26日 [「正に言語道断」オンラインカジノ常習賭博で有罪の新潟簡裁裁判官を罷免 弾劾裁判所](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9RTks3NnRLNENWQzU2ajRjMW5CQkh1cHlGel9nTUZfSlNRRVNCcFZ0NTlkY2R3RDNsU0d6NTIxdmhtU21RRkU5aS12MVV2SVhNcTYyYlpqaw?oc=5) TBS NEWS DIG
-
-○11月26日 [【画像】「正に言語道断」オンラインカジノ常習賭博で有罪の新潟簡裁裁判官を罷免 弾劾裁判所](https://news.google.com/rss/articles/CBMifEFVX3lxTE9mRVJPc0Q1SExQNW41dzVmNEJVUE1kQ2xqak1ZZFdGLUFPM19laEhmSHRJM2Z3YnNYUkFVVWZGTGZXdXktdmc3U0ppRm1zRVowUUhrT3JLR1g2dHJsX19GeExaSGJPVHp0NmFpSDN6c3lfbk43Z1YzdFlFVTM?oc=5) ライブドアニュース
 
 ○11月26日 [Osaka puts MGM casino resort at heart of second-capital plan](https://news.google.com/rss/articles/CBMifkFVX3lxTE83VFlGS0JOTXJHc3hjSTRBYTdlaklLcUJaZ3NkamhfYWh0aVJ3cnhxMXdlWkJnNktJOVllay16WDQ0THotUWFyaC16TzB1RmVjUVFSaTZBY2tZaVdwSXNTTU9vLUo2Y2xHdUVKYXNCcWQ3bS1SSmp3R1I4VmxPdw?oc=5) Focus Gaming News
 
