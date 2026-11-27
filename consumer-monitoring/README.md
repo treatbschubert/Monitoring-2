@@ -1,4 +1,4 @@
-更新日時: 2026年11月27日（金）04:42 JST
+更新日時: 2026年11月27日（金）09:12 JST
 
 【ニュース】
 
@@ -22,13 +22,17 @@
 
 【日本国内のIR（統合型リゾート）関連ニュース】
 
-○11月17日 [Japan’s Omura City eyes IR project with a ‘2030s’ opening schedule](https://news.google.com/rss/articles/CBMikAFBVV95cUxQMWFrN0k5dXhNZ3NZZEZEMGE4a0s5cklMcXk1TThsVU53OHVqQ3h3eUdiZTZkM2pxMnBCa0hTUV9ZSUtYZmR5ejRCekYzTUxtWkwyYmRHMkh0UHhOZTRhZWZJME91SVVOUUpGMnZ1RDRuQXFLbl94TF9ub3l6WXlqNWN6Tm91VmtwMVlSTGotOFk?oc=5) GGRAsia
+○11月13日 [「北海道IR推進協議会」設立へ 苫小牧、函館、釧路など官民](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5fYTVXMFVkVzdWQ3VodXdiNFMtUXowa0F5VE53YVpYWFc0b0Q5LTF5ZWV6cUNkbWw1VzM0cnVMOUVnX3hYUnJENmFIWmF0TUEzd3ltV1V4aVFRQQ?oc=5) 北海道新聞デジタル
 
-○11月18日 [Hokkaido confirms it will skip 2027 IR application, seeks easing on facility requirements](https://news.google.com/rss/articles/CBMisgFBVV95cUxQVVFYZ3VDZ29ucFNPSVgzWUh4R0FvQmVnNnAxU3Zjd1lYYmRkZ21hUzVSSjRLdUhCWUd5MGcxRmNuOE9FN2NrUF8xa2ZCSEoyNWk2MjhzYy1YdUh5TzYtOUhNdVZ1NHR4RVVWX1IzV2VNYnl4QzNnOW5PcGM2Vm5FZ2g1VnYtaXB5QzR2QllrOUJ4MTRWdERUbmY5Z2FFdTdtRXNnR205cDZUT2EtSS1LNnRn?oc=5) GGRAsia
-
-○11月18日 [IR誘致の福岡・大任町長「複数事業者が関心」 県議会で3月議決を](https://news.google.com/rss/articles/CBMibEFVX3lxTE1jMHJMZWU1M1gybERPQUpRbmpKOUJtdFJxRm1EdG41RzBWaHpHamxmd0ZqN2d0UTRjVHFiaHBWcjdwSWtHQUZHeTJua1QzdXA0bVNuSHZnRTdYSnJSckcyOV81OHN2NTV1OFFUMQ?oc=5) 日本経済新聞
+○11月18日 [鈴木知事要請のIR基準緩和 観光庁長官「現段階は困難」](https://news.google.com/rss/articles/CBMiWkFVX3lxTE4xcGpaUHVpMDI4ejUxNXhXVFRTZWZ2UkxtcnFRZ0FLeFhjUmlDc2lRR28tZ3dJelRlRVJoeHJiY1VrTDdjUG1sQVBJVWpFTTJSTzNBcGhqX3BuQQ?oc=5) 北海道新聞デジタル
 
 ○11月19日 [JR北海道の黄線区「IRで稼ぎ増やせば鉄路守れる」 苫小牧市長](https://news.google.com/rss/articles/CBMibEFVX3lxTE9ScEpxNVliMVZtcmNNTF8xdmlJYUs0X0pndEFUeGZBNlJLNEI1NjEzdkplUFBIOWFwekNGMzc5d25DYlotOG90Z2EwVHF2U1hqa2ZrR2FlZU15V2diY3FyUnBYR2ItTkpabHZPaw?oc=5) 日本経済新聞
+
+○11月19日 [東京都、来年のＩＲ追加申請せず](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBVWWxCYm5jYXRSUGw4MjlqSkwwX0pORHpHQ0pLOHczRmRvVVR6V3AxOE1jTmtwZjFNNndlc3RRZnRKWExwLWluZ3ZwY0tBdzI0?oc=5) 日本海新聞
+
+○11月19日 [東京、ＩＲ申請しない方針 来年追加期間、調査は継続](https://news.google.com/rss/articles/CBMiX0FVX3lxTE8zaEE3dzhuVFlHVE9lbnhSTVV6c0h2RnV4X0ZGT0U3bmFRRE1wU1VDYjFqRU9NRXd0QkNzX09MUnVuTTJFZTJuR0hXZ0VQN19xVEZ3MTRGdXBwUERvYnVz?oc=5) 高知新聞
+
+○11月19日 [東京、ＩＲ申請しない方針](https://news.google.com/rss/articles/CBMieEFVX3lxTE5HR1o5NkhyUG9uLVpxLVNHLUtJRUpibWVHVkdNNGhsRUpNc0NTcnVBT2pmSWRkT0RlVmpSbm1xX21Ta2N0ekRhZ1pCc0haTm95QWF0WEd5WXFPcWxtRWNKMWxaUjVyTFZCdnJJMUY0SHBELW5mbnhuMNIBhAFBVV95cUxNa25fTExybGpzN09jQ3FTaHBjVGZLLXNGdjBlY1Z0ajM1b3VPZ0I2R29mWldBd3kyODBLVkNULTRnWEFkai1JMVktOXVzS0xRbUhrV2JNb2lFN0Q0NEt2eXk3S3hteGlYakRzVmhiaG9vaFZNdW9wYXZlX3hvX2Q2UkpZQWg?oc=5) 大分合同新聞
 
 ○11月19日 [東京都、来年のIR誘致追加申請しない方針 調査費は予算計上へ](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBxRlpyTjFtbTRLa2VpeTM4YS1pWG4tN2p5UVF2TXdhSThFOTlocnBYMFU4aTdFU2Z1WWM0OWlXeXZDdXR4bWlmOXN6VzZxQmp3ZVNxYUVfa0tTMTZZQlpEYlRPeGFJVXhw?oc=5) 毎日新聞
 
@@ -38,7 +42,9 @@
 
 ○11月24日 [Tokyo Rules Out Casino, Hurting Japan’s 2027 Bidding Round](https://news.google.com/rss/articles/CBMijgFBVV95cUxOWXJ4MzVQU3ktUzhTZFNYSW5jLVVkNmxPTXduNEViM1JacjdqcmZIMDRxVUdjTk1pYlJBOUdKQmRzTVdvTmJCTVZMTFQtRWN3ZENHWFNWM0MzMHN2SV9rWGotTU1QWDVWOFFBdno5NUxLNEtIOUc2bHpTT2k2bUE3d2dqX0N0TlNydC1NN0JB?oc=5) Casino.org
 
-○11月25日 [Japan’s Fukuoka not able to start ‘immediately’ on an IR implemention policy: governor](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcWtwZWMxMGJteVRmR3JQb2RlNGUxQ0VTdTF2VjVuM1dicnhwRWJITGhUSWluaEVaSmVvTEt5d1Q1NDlUQWExaXFMM2pocXZnSHRUYjFZVHNVQjBEbmJjcWtwSU9BMkFJamJ1VGhpTDNZOTh0bmNYUzMwZTJKN3NTdGFUemx2SHdDMEhJSkRQX1dCMHRjcExRSmRtWXMyVU5MaVljRW1TVmxiQQ?oc=5) GGRAsia
+○11月25日 [北海道・鈴木知事記者会見（2026年11月25日）：北海道IR推進協議会への見解](https://www.pref.hokkaido.lg.jp/ss/tkk/hodo/pressconference/r8/275613.html) 北海道庁・知事記者会見（公式）
+
+○11月25日 [北海道苫小牧市長、IR誘致を目指し協議会設置へ 依存症対策など含めて市民の理解を促す狙い](https://www.htb.co.jp/news/archives_40630.html) HTB北海道ニュース
 
 【東京都知事（小池百合子）】
 
