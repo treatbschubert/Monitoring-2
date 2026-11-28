@@ -1,8 +1,6 @@
-更新日時: 2026年11月28日（土）04:30 JST
+更新日時: 2026年11月28日（土）12:41 JST
 
 【ニュース】
-
-○11月24日 [＜防災庁発足 あすへ備える＞（下）小池百合子都知事インタビュー 首都直下対策、阪神・淡路に学ぶ](https://news.google.com/rss/articles/CBMibkFVX3lxTE9xZ05OTHlhZlhMcFdWY0ZZamtvbDk5UnhKd1hPWnZGbzR6aEdxbVZUS2RvZDFfcUxpTDZkNkJkbUdxVVB1YjFyQnp2RUMxU0pjYlVJQlR3RkhQM2xKb1lJanh0emdFWEMzOU54UTRR?oc=5) 神戸新聞
 
 ○11月24日 [都議会4会派、防災やサイバー攻撃対策を知事に要望 補正予算案で](https://news.google.com/rss/articles/CBMibEFVX3lxTFB5cUlEVloySUs3aXZ5QzdPTmt0S1lITTFPWVljdjFFTGRSWFBCeDRJOG16aHN6Zmh6UWtfaE01Qk5ZanczWDJuWkl4WUNmdkQ5TlZnUzN3WVozLUJkREhwUTlpVTBkeXFJT1FZMw?oc=5) 日本経済新聞
 
@@ -16,21 +14,23 @@
 
 ○11月26日 [台東学童都知事杯 七北クラブ「足攻」で逆転、2回戦へ](https://news.google.com/rss/articles/CBMiU0FVX3lxTE52cmpaMGJDajJNYlBHLUt1cTBSUklwOEJhNDRLeUR1ZVA1Vm1Rd2FlZEpVcFR6R0w1UFpwaVRsMHZGWGw3R1VFb0pzUlBFZDNCemJ3?oc=5) 東京新聞
 
-○11月26日 [自民、税収偏在是正で折り合わず／税調で地方要求、東京都側が反発](https://news.google.com/rss/articles/CBMiogFBVV95cUxPbHd0ZC1CV3h2b2EtU092dUdudXNhRUoyTzUxbHQwMTczaEgwaHhCNVVoX2FyVTR0YmRTeXhVMkxSRXA5TDBWbHdTYlVrS1Q0dnltS2Z0STA1RF9KaXRGcUI5NUZaeFhXYld3alVjVXd0Q25tbFNpUWwxa2E2QXdJcko2TXlKUmdlRXR6V2s1Q2hCQUZxYUxNQ3kwQXM1TElSSVE?oc=5) 四国新聞
-
 ○11月26日 [自民、税収偏在是正で折り合わず 税調で地方要求、東京都側が反発](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5aV1lsaDVVVU9aRUpUV0d3WDd4V1dHajJHRHBPdUI0UmZUYzM3eU52WDJyb2RxT0h5RUVGSVNuclRGT0FKdzdqQ0NfMFRlYlNPQTZKeEJNb2ZudEU2REVidkpIbUZKMjBI?oc=5) 山陽新聞
 
 ○11月27日 [税収の偏在是正「断固反対」と小池都知事](https://news.google.com/rss/articles/CBMihAFBVV95cUxOVGY2RDdma3lTMzVDWHlpZk1wWlFJUFlxd1dPQ3NRZlhETE1KWlpHemNMSm1KUHZVSlJrdGZDaXZyNFk2SWdLWmFIdDktbHFqUnJ1QzZlRnh6d0FlTm1pQjJpSDJTUVhNc3g0NjFqSVhwak5CYnJyNVZybHNPdlRCRFRmVmvSAYQBQVVfeXFMTlRmNkQ3Zmt5UzM1Q1h5aWZNcFpRSVBZcXdXT0NzUWZYRExNSlpaR3pjTEptSlB2VUpSa3RmQ2l2cjRZNklnS1phSHQ5LWxxalJydUM2ZUZ4endBZU5taUIyaUgyU1FYTXN4NDYxaklYcGpOQmJycjVWcmxzT3ZUQkRUZlZr?oc=5) 大分合同新聞
 
+○11月27日 [小池都知事 女性が力を発揮できる環境を整えたい](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5OelhBckYxNklSOVBXZG9yV2g0cTZrSldyeHUxOTB4UnVQXzNQaEt0X1J3a3F5dUh1aGlmZjdNWUlTeVVfTHA4QjR3anl4Y0ZPT3RPdXpKWGEzQQ?oc=5) 日本経済新聞
+
 ○11月27日 [「東京狙い撃ちは断じて認められない」…税収の「偏在是正」巡り、自民都連が小野寺党税調会長に申し入れ](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9UVEljU0N2c284czlZdjVVUklJb2RqSS1ZdC16V3lBUzRvOS1RVHd4ZDhWUXJ3VFhkZERWVDczOFUzNlZOU0t1azRtaHU1X0lKMGc0a0xGbWZLWnZ5QVgtY2c1YXRYUQ?oc=5) 読売新聞
 
-○11月27日 [地方と東京、税収巡り溝 一極集中是正策、都知事は反対](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9qMnRnbXF1LTNoRFRUeURuU3dHMkRxZFdHeUo1czJkZmRyeldITXhpVkJwWjlRMEdhcDZ1YWFFclBTak5rSFlmVHBOUDdMYmkw?oc=5) 日本海新聞
+○11月27日 [地方と東京、税収巡り溝 一極集中是正策、都知事は反対 - - 全国のニュース](https://news.google.com/rss/articles/CBMiVkFVX3lxTE93bWFSSDFwY0w4NVFqcTM3QTd0NEd2d2MxVkY2YU1QODl6ZlhNVC1OdFBDTFpCZUExMzB0c3J3eVRVS19Za2kzV3RONU9ucHBac0RQU213?oc=5) 佐賀新聞
 
 ○11月27日 [地方税再配分、自民都連「追加措置断じて認めず」 税調会長に要望](https://www.nikkei.com/article/DGXZQOUA271DY0X21C26A1000000/) 日本経済新聞
 
 ○11月27日 [全国知事会議、税収の偏在是正巡り紛糾 小池都知事が2年ぶり出席](https://news.google.com/rss/articles/CBMibEFVX3lxTFBxS1lPOVNmYl84clhNZVBSMVBDQTJ2d1lxYlhWWHhmOWRRM19zbmdBNEpTWW1XRGhoeEdLNE90WWJXYTJCVHBza25raU04T20yT0NHWkpsdmtBY3U4TktvMUpFOE9LX3pua0Vxeg?oc=5) 日本経済新聞
 
 ○11月27日 [小池都知事、全国知事会の議論を批判「東京を相手に闘う知事会」「都税を狙う不合理な措置には断固反対」](https://news.google.com/rss/articles/CBMiZkFVX3lxTE1uXzczaDVkVjc5LVZKUnkzdTNnOEEzNkhrYjZpV2NtSDV6cDJZNDJOajhjRzJac3M2c0lVQ2lxa1RrNzc5cVhkQW5YN0dNSS0xUU5QOUNQV3FYWVZqbzBxc3dJWVVrQQ?oc=5) 読売新聞
+
+○11月27日 [地方と東京、税収巡り溝 一極集中是正策、都知事は反対](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA2eUJxZ2R2eEhWYTlTd3o2Y3RCeEZHclg4ZW1MSEE3Wk16YTdmWnlMWFl3dnplNFIwdms0b1VBcWFBMmloN0ZsZ24zLUVTUlVwMGdwbm9ESXJxLWU3VzJkV2I2SUs0N2M?oc=5) 山陽新聞
 
 ○11月27日 [旧こどもの城跡地周辺「智の創造拠点」へ 小池百合子知事「図書館は世界である種のブーム」](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9zSU0xc0lkRVlXM2h3eHBJQnc4NkdpTzZRQWI4OHV4ck5DQ2hvbnN5SV8yNGpiVnhuZEpiWEp4Z1hERTVwLVg4MmNaVVBjLTdrUmtj?oc=5) 東京新聞
 
@@ -44,33 +44,31 @@
 
 ○11月27日 [発言する小池都知事](https://news.google.com/rss/articles/CBMiV0FVX3lxTE45eEl3M3QwSnFPWDdoSzhJQll5d0tGSk1RM29OZmtyWW5vWHJmT0VwMXAtV3pteTRZMHJLaFZZZEsxQzhBX3cycmtjeWpMZU5ueHVZeHNsbw?oc=5) 品川経済新聞
 
-○11月27日 [発言する小池都知事](https://news.google.com/rss/articles/CBMiU0FVX3lxTE54V2dIbnF5dUVRaC1NOHd4dzJYM3NCV0taRHpSQlF3bVVwVFpfd1MyUHZ3RWZMMkVDSUVsTDJjWW51M2Z5VEhFS01taXdLOGQ0RkJF?oc=5) 豊田経済新聞
+○11月28日 [「東京相手に戦う知事会としか映らない」…小池百合子知事が税収の偏在是正を言われて不満隠さず](https://news.google.com/rss/articles/CBMiU0FVX3lxTFB3MDctbldaNG1vVFcxRWxCMGZDTHFkT1hEUmF1R1J4T05YQVJvSkNOcmU5Vnl5VjI1UlFWSldoQi1ocWtYUF9JMFQycmoyaHRmSkpN?oc=5) 東京新聞
 
 【日本国内のIR（統合型リゾート）関連ニュース】
-
-○11月14日 [【独自】「北海道IR推進協議会」設立へ 苫小牧、函館、釧路など官民](https://news.google.com/rss/articles/CBMikAFBVV95cUxNN0R2MHRJRWQtTHlsanFLZDFQVzVPZzBtYnoxUE9Weno2dVZuR3NpMGdEcW02dS1EOXlYam1INGU5eHZEbjlrUS1LZkl5NmZ0TFNkV1NxeGhOWWVpX3ZOeDg2Z0Y5NjJaay05M3B3Qk8yMXExODItckFtQWJ1V2FJV0tYeU5YUHlKYkpyYUpJbDI?oc=5) 北海道新聞デジタル
 
 ○11月16日 [「複数の候補地が大村市内に」 カジノを含むIR誘致をめぐり検討協議会が中間報告｜ニュース](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBnRWFNVmw3R043WXl4Mmh0bjdvSmRxWWJiQW51dkVDZDVBaGh4YUVTLTd1ZV9uNDdDS2pzODBTNWl2RHY4eG9LU2lLUkV0THFtekFLUVR5MmI1NXE2bFFWMS1n?oc=5) KTNテレビ長崎
 
 ○11月16日 [「家族全世帯で楽しめるリゾート地であることを強調したい」大村湾IR誘致検討協議会が中間報告会、2030年前半の開業を目標に](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE14SWlzeXFBd29mQ1B2MHdPWWZlXzVQX2lJbmt1eEtXS2NIcktVVHUzSGIwZW9DbDZFQTZBMVI5ak5jWENRUGR5ZlZMZ0FPWGlSWTVPWkpyZVFxN2JsaXU2TzRWWmprM1E?oc=5) TBS NEWS DIG
 
-○11月17日 [ＩＲ基本構想案を中間報告…候補地は大村市内の複数検討、長崎県内への誘致目指す協議会（長崎新聞）](https://news.google.com/rss/articles/CBMif0FVX3lxTFB5cHZ2VzM1WENPRjV2WW9ZMEIzLVFwMTJqYjlnbU9HRlMteW9sZ1FMV3NfelpkTF9ITTV4MXpwdkotbHFiREs1alZ2a01vUkI0X2l6SV9hUV9oR201dklKLWZpMy02b1o1OEdCc2hYZk9Ndk9ab1hCeWpVc25jXzQ?oc=5) Yahoo!ニュース
-
-○11月17日 [苫小牧一丸でＩＲの実現を 市と商議所、２７日に推進協設立](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBZTnhsaTI5ZTJLMmRLbVBLaDR2anhYcWltQzJoazNvSHpiX2xyRmZfSnhLak1FUjZZZHlZYnNiWUF4aHloNmtsR1l6QQ?oc=5) 47NEWS
+○11月17日 [ＩＲ基本構想案を中間報告…候補地は大村市内の複数検討、長崎県内への誘致目指す協議会 (長崎新聞)](https://news.google.com/rss/articles/CBMijgFBVV95cUxORl9aTGxGOGZPWEoybzlGMzFwNVlKcDFTeGlIbEk0cTRISU9XcFNuOTRvN3V4RTZCcXJLcDRsNkU5T0RGTF8xdzVEcnQyUVdmNzlRZ055U3FXREdRX25QMjQzQXRtMExDaTFKaGdzUW9PRUc5SDB5U0hMSGI3SG5UWS1iVWhCVjlrVzljWDZR?oc=5) Yahoo!ニュース
 
 ○11月17日 [ＩＲ基本構想案を中間報告…候補地は大村市内の複数検討、長崎県内への誘致目指す協議会](https://news.google.com/rss/articles/CBMiS0FVX3lxTE5iaUx0bFRlSTZ3MUZMY3k1Z3BtdjYwWVRfeHdrdTVTNjhEdEpzQlFZNUhkR0x6SVJGemxUTHFFeDZZRm1valJJUnBvUQ?oc=5) 47NEWS
+
+○11月17日 [苫小牧一丸でＩＲの実現を 市と商議所、２７日に推進協設立](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBZTnhsaTI5ZTJLMmRLbVBLaDR2anhYcWltQzJoazNvSHpiX2xyRmZfSnhLak1FUjZZZHlZYnNiWUF4aHloNmtsR1l6QQ?oc=5) 47NEWS
 
 ○11月17日 [Omura advances Japan casino resort plan for 2030s opening](https://news.google.com/rss/articles/CBMicEFVX3lxTE54bUtIX3JoU3V5amhjVEt3NFF3dHRyS2VkM3FELUZ6WENmSS1CSm5QaEduZ3RXdlVIVE51Ny1FTXhCUzhnc0JvT3dWb2hSbno3WC1faXF5alhqOHFZOEFSWFhoMUlRTW9EWGVScWtsUFY?oc=5) Focus Gaming News
 
 ○11月17日 [Japan’s Omura City eyes IR project with a ‘2030s’ opening schedule](https://news.google.com/rss/articles/CBMikAFBVV95cUxQMWFrN0k5dXhNZ3NZZEZEMGE4a0s5cklMcXk1TThsVU53OHVqQ3h3eUdiZTZkM2pxMnBCa0hTUV9ZSUtYZmR5ejRCekYzTUxtWkwyYmRHMkh0UHhOZTRhZWZJME91SVVOUUpGMnZ1RDRuQXFLbl94TF9ub3l6WXlqNWN6Tm91VmtwMVlSTGotOFk?oc=5) GGRAsia
 
-○11月18日 [大村IR「候補地は複数」 検討協 1月にも長崎県、大村市に要望へ](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ZR29iRHUzLUc5LUlzRVZVdXNERTlGNGFpLXNhRUJUWEoxVmxKZy1ZMGtmQ05tZnhQOVpCakFQVkFWTU9WcUx2SmtWSkdUXzk0cUV3aTN3?oc=5) 西日本新聞me
+○11月18日 [大村IR「候補地は複数」 検討協 1月にも長崎県、大村市に要望へ](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBsN2hpOXJSNXVLS0s1R25abDNKdEE2MjRJUGtrX1ItQXltVFRxeFI4RFNGaUtaVDh6VjNEOHJvNjNiVnVySFl5MDhhNA?oc=5) 47NEWS
 
 ○11月18日 [Hokkaido confirms it will skip 2027 IR application, seeks easing on facility requirements](https://news.google.com/rss/articles/CBMisgFBVV95cUxQVVFYZ3VDZ29ucFNPSVgzWUh4R0FvQmVnNnAxU3Zjd1lYYmRkZ21hUzVSSjRLdUhCWUd5MGcxRmNuOE9FN2NrUF8xa2ZCSEoyNWk2MjhzYy1YdUh5TzYtOUhNdVZ1NHR4RVVWX1IzV2VNYnl4QzNnOW5PcGM2Vm5FZ2g1VnYtaXB5QzR2QllrOUJ4MTRWdERUbmY5Z2FFdTdtRXNnR205cDZUT2EtSS1LNnRn?oc=5) GGRAsia
 
-○11月18日 [IR誘致の福岡・大任町長「複数事業者が関心」 県議会で3月議決を](https://news.google.com/rss/articles/CBMibEFVX3lxTE1jMHJMZWU1M1gybERPQUpRbmpKOUJtdFJxRm1EdG41RzBWaHpHamxmd0ZqN2d0UTRjVHFiaHBWcjdwSWtHQUZHeTJua1QzdXA0bVNuSHZnRTdYSnJSckcyOV81OHN2NTV1OFFUMQ?oc=5) 日本経済新聞
-
 ○11月18日 [ギャンブル依存症家族の会村田氏「福岡にカジノいらず」 無理解懸念](https://news.google.com/rss/articles/CBMibEFVX3lxTE5GMHRGMDVzRmhzYTZ1eVhfT1pPM3YxOVI1QWZ1NFVXM21Gby1zeDhqOVdQWnpvS3lDeFVudWlrMl80NzByQlhrb1hYWW1NSXBmZUpJUDFMdV9DTDZaYVVlTkpGMkFzVnh5eWd4YQ?oc=5) 日本経済新聞
+
+○11月18日 [IR誘致の福岡・大任町長「複数事業者が関心」 県議会で3月議決を](https://news.google.com/rss/articles/CBMibEFVX3lxTE1jMHJMZWU1M1gybERPQUpRbmpKOUJtdFJxRm1EdG41RzBWaHpHamxmd0ZqN2d0UTRjVHFiaHBWcjdwSWtHQUZHeTJua1QzdXA0bVNuSHZnRTdYSnJSckcyOV81OHN2NTV1OFFUMQ?oc=5) 日本経済新聞
 
 ○11月18日 [鈴木知事要請のIR基準緩和 観光庁長官「現段階は困難」](https://news.google.com/rss/articles/CBMiWkFVX3lxTE4xcGpaUHVpMDI4ejUxNXhXVFRTZWZ2UkxtcnFRZ0FLeFhjUmlDc2lRR28tZ3dJelRlRVJoeHJiY1VrTDdjUG1sQVBJVWpFTTJSTzNBcGhqX3BuQQ?oc=5) 北海道新聞デジタル
 
@@ -88,7 +86,7 @@
 
 ○11月19日 [Hokkaido Seeks Changes to Japan’s Casino Resort Facility Rules](https://news.google.com/rss/articles/CBMingFBVV95cUxPakZYOE5ydEM2V0dVT054YXdaM21NSVB4cW5oTlBobW8zLXFXSU00UkNaaTZwdTd1UWVZeXpVaWRNb1JvWU1melhYeWgwbjVhU2NRU1hvakgtaVByZnkycFlsV0doR1FIbzJkc0JqbEJ6Ni01WUc2R1pNQmQzYUUzcnRaeWRfM3pTZ0FlQ3psYzd0Ymhhc2ZTN0ZPdWJUZw?oc=5) World Casino News
 
-○11月19日 [東京都、来年のＩＲ追加申請せず](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNWHpVTGItOXZNSlZiX1FwVnhuX29HVEh6UXlLX0FFNUJMekxCWk9jUXhlSjNWWExFSjNuTFlIX2t4YmF2VkgwbWpZckhZOEUzYmpseFN5RDUxSHc?oc=5) 下野新聞社
+○11月19日 [東京都、来年のＩＲ追加申請せず](https://news.google.com/rss/articles/CBMiWEFVX3lxTE8zWHJsZHBJVS1zSS1ZSGh6WWMwb29jS25SYUliZzZjV2pRVHRXNGhhZW96bDU2NjEzUTJtUU0tZnpuRzZBTDF3b0Z2dWRtbDNYOUdnR291V3I?oc=5) 京都新聞デジタル
 
 ○11月19日 [東京都、来年のIR追加申請せず（共同通信）](https://news.google.com/rss/articles/CBMif0FVX3lxTE54aUJJUHpXTjhmcHFMRFY4d0k1ZWswMGZIVWE0N0ZKcVE3ejBNY3FuUDA2OTVaSXdqZTBjT3ZWQUxZSGM3TjU0Rl80bmdQaVZQVzVDUE5ORDVJZUxSemdoYnhFcDVoU1NGOUVJOTdJSVZYU2Z0RFRIUEc2TUdMTWs?oc=5) Yahoo!ニュース
 
@@ -98,27 +96,25 @@
 
 ○11月19日 [東京都、来年のIR誘致追加申請しない方針 調査費は予算計上へ](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBxRlpyTjFtbTRLa2VpeTM4YS1pWG4tN2p5UVF2TXdhSThFOTlocnBYMFU4aTdFU2Z1WWM0OWlXeXZDdXR4bWlmOXN6VzZxQmp3ZVNxYUVfa0tTMTZZQlpEYlRPeGFJVXhw?oc=5) 毎日新聞
 
-○11月19日 [東京都、来年のIR誘致追加申請しない方針 調査費は予算計上へ (毎日新聞)](https://news.google.com/rss/articles/CBMijgFBVV95cUxQSkp3U2F3RmlONi04R1NMZC1uVFdYWWQyb0c3OFBEUmNOcDZxZWlwajBiM28yRHBLUHRsQy1NSWpvQldPVGg0cVpMclZRRy10RG1wZGVrOFRCSjdJNnJXbzUxTEtXSVdvWnlrSUoyVzFvU1docHlVY2dGVlpRcExSSmpTSEdRTXN5aC1hVS1n?oc=5) Yahoo!ニュース
+○11月19日 [東京都、来年のIR誘致追加申請しない方針 調査費は予算計上へ（毎日新聞）](https://news.google.com/rss/articles/CBMif0FVX3lxTE9FbzNOdEc3YmlaZ3RVNzY3N3dndzNrcWpqMC1vZVlRRC0yQjBhcGdFM01KOGZ1UnJ1UUZadHhRaGV1SW5UZnpXRDZXTDgxbS1UU3N3UXlMU01SMjZtNnpCZFJuWGZXVTY0d09Id3VMOGxUVVVvNHpsRkdDVVJuQXc?oc=5) Yahoo!ニュース
 
 ○11月20日 [Tokyo to forgo 2027 casino resort bid, plans to retain research budget](https://news.google.com/rss/articles/CBMimAFBVV95cUxOQ0lueG0ycDdLQ1l0d2VLRVF0R0FZSlkxb0hyMkN6bTNpUVlxRldRRDItMU04bHNwUUliV1BpX19nQnFseUdVaUwyLXFGR3NGaWIxQWJGLVY2TjJWeUpwUU5wRFhBSVJkZEpUTHREZTRjRGtyVUV2M2hrSFRidWRzanJHOGs0dlhEMGZZNmg3YUpvV3pJQ2xYTA?oc=5) GGRAsia
-
-○11月20日 [Tokyo skips Japan’s 2027 IR round as tourism chief rules out quick easing of facility rules](https://agbrief.com/news/japan/20/11/2026/tokyo-skips-japans-2027-ir-round-as-tourism-chief-rules-out-quick-easing-of-facility-rules/) Asia Gaming Brief
 
 ○11月20日 [Japan tourism chief says easing IR requirements ‘difficult’ at this stage](https://news.google.com/rss/articles/CBMimwFBVV95cUxNTE9pXzMtYUlHOXZZYmVwZk91ZkcwZm9Dc1dXTjk5TElEeF8wdWI5WEQxdWlwMzlWeGtHNUdhcERmSGVjVGRBWFJ2eWstbnNkMXgwa1BwUXRmUFY3Z29haENneFhtaWhPbjc4MXlyQkZjeFpyamZETjVTSU1YZHZrY0RYSHc3aWxRTXdHaWFieUhvRDVwRGE3R0pCNA?oc=5) GGRAsia
 
 ○11月20日 [大阪ＩＲ開業に先駆け設置「依存症対策センター」実証事業でギャンブル依存の相談が４割…「相談件数は想定より多かった」](https://news.google.com/rss/articles/CBMif0FVX3lxTFBFUGhPaFlWUGcyMW95ZUhxdEl5RXRPOGZFUDlIOFlHSGllWW9jUldyOUJBbXUtU0N5M19rZFZrQ1c4YUlmcHRtWXBDbERCMS1kSDVxa0FsamFpQkIwT2ZabmkwLXFma0pMX2JzRHVfekR4YXNjSnlKb0ZWRUhTbVk?oc=5) Yahoo!ニュース
 
-○11月20日 [Tokyo Skips Japan's 2027 IR Round, Keeps Research Budget](https://news.google.com/rss/articles/CBMizgFBVV95cUxNNy15a3ZCcWl2ejNpcGt4VGtGdGFOb25vZ2tjMW9paS03T3hvNThqZXd1d2l5TWRWTHU2TjI4dmliYWlnaVhSUGJzS09aTXpTMmR1cEZvVkZVU1VheER2Y2NxUEZPenlIRnlseWxWVmNjNTJPRV9Sc0RHOFJYZlpOb3hlWkZNWldHTmlLSjlkWmU5SXI0Q3dJUF9sNU9vQ29PM0QxMThmVHNZc2tXQ1BZVm1sRnU3WDBiWEp0bXlBc1VZcGJqNXM3WHJ4WGx5UQ?oc=5) Asia Gaming Brief
-
 ○11月20日 [Tokyo abandons 2027 bid for Japan casino resort development](https://news.google.com/rss/articles/CBMilwFBVV95cUxQVS1HaFdyWjhLU3VGWTRFUjZrckZxdDI5bW5uS1VVZVoyQkQ3SkpaVEFNNzdqODh2VUVoUHc2aFBHY1FWM1dCTHo2dWZFYVRNWXFEQ0hhZzQ3TEFma0V6WEVqdlptSXI0VGJtTmZpbnoxNlpiM2dHMk5rS3ZEcEdIX1YwV3F0RTdzeEZWY0EwSXRKb0RUQUk0?oc=5) Focus Gaming News
-
-○11月23日 [Tokyo rules out 2027 IR bid](https://asgam.com/2026/11/23/tokyo-rules-out-2027-ir-bid/) Inside Asian Gaming
 
 ○11月24日 [日本カジノスクール、ＭＧＭ大阪公認コースを2027年1月に先行開講](https://news.google.com/rss/articles/CBMiR0FVX3lxTE1aMnhyRU5NVG9NX0kzZnVxVGRfcUVDblVUOFVzOUoxdkJKTWp2X1h2OHdVSUoxSkdsVFQzdU5Hd19MY1VJX3Fz?oc=5) Dellows News
 
 ○11月24日 [Tokyo Rules Out Casino, Hurting Japan’s 2027 Bidding Round](https://news.google.com/rss/articles/CBMijgFBVV95cUxOWXJ4MzVQU3ktUzhTZFNYSW5jLVVkNmxPTXduNEViM1JacjdqcmZIMDRxVUdjTk1pYlJBOUdKQmRzTVdvTmJCTVZMTFQtRWN3ZENHWFNWM0MzMHN2SV9rWGotTU1QWDVWOFFBdno5NUxLNEtIOUc2bHpTT2k2bUE3d2dqX0N0TlNydC1NN0JB?oc=5) Casino.org
 
-○11月24日 [難波のホテルで大阪の観光考える勉強会 IR開業やAI活用テーマに](https://news.google.com/rss/articles/CBMijAFBVV95cUxOemIzd2UxTHVHbHRLQVgxMGhOSFVnbXljMF8xY09RcjBOckVkYVk1MVQ5NV96VjRyYk93RG9QS2htV1E4TldIS1BpaWNHRGFHZGl3WDZuTUNWSjk3enNISGdYdGd2OUN4eEVjbXVtUmtjbUsycFF1OFpwR2l3TE82ZTh5WDU0MkRNQzNDbNIBf0FVX3lxTE8zb2dMWnF5eFRKQk1xWnlNVmJwaWwxb29qVlBnRXJ4OWptcjAtWVRsUjVJR0xEdG5rSG05Wkp6NlR0QWVCMU9IZGVZMXhGVUU4bXJ5Q2ZjY2lLNHJKalZwR0dGTWxWTDdHcTJreFVOOGphbFJDZ0Z6ak15dEZRSGs?oc=5) ｄメニューニュース
+○11月24日 [Tokyo Withdraws from Japan’s 2027 Casino Resort Licensing Race](https://news.google.com/rss/articles/CBMinAFBVV95cUxQakVxWDhUVGhPV0ZWVDZhT0lDY01LS05NNFlCM1gwZFhjc0s3ajVZYzhDRWRVeGxRNjFCQlU5SUJMWUljR3BBUkc5V1FCanJ6QWpqV2RZV3g3elgyRGZ6UGRzVjd1Y21lSGNKM1YtZTkzLWd5aUtJdVRaQ3NWcnFnaDE2ZDRqMktUbFRsX19ROXplT0pPeWhhVWpmdGE?oc=5) Gambling News
+
+○11月24日 [難波のホテルで大阪の観光考える勉強会 IR開業やAI活用テーマに](https://news.google.com/rss/articles/CBMiekFVX3lxTE11Sm5neVRnUlZCMzdWV2pVZ2RLLWIzZzczeFdhUHBobTJ0amZWaVA1VFBaWjZUZjQ4VVVMNWZDbnROYk45YkprMFpKWTgtd244bTRlWTMtNjVadEY5SldjMjVnYzVBUnVUSUwxREZGZjFCdWN4ZUFDQzFn0gF_QVVfeXFMTzNvZ0xacXl4VEpCTXFaeU1WYnBpbDFvb2pWUGdFcng5am1yMC1ZVGxSNUlHTER0bmtIbTlaSno2VHRBZUIxT0hkZVkxeEZVRThtcnlDZmNjaUs0ckpqVnBHR0ZNbFZMN0dxMmt4VU44amFsUkNnRnpqTXl0RlFIaw?oc=5) ｄメニューニュース
+
+○11月24日 [難波のホテルで大阪の観光考える勉強会 IR開業やAI活用テーマに（みんなの経済新聞ネットワーク）](https://news.google.com/rss/articles/CBMif0FVX3lxTFB2eC1aVmR0SmNNQnF4Z09NZmpnMU1WXzJ2T3pna0tKdXVzNE1JNkwxOHJKZm1HVFN1WHpuWndXdnhyUTRvcmdNSlViTy1Ua1p3akNudEdpdXZjbVpaa29yUV83UTBEcF93MlE4Zl9MWnVoM0p0WjBJSVJDRGJHY2s?oc=5) Yahoo!ニュース
 
 ○11月24日 [大任町IR誘致に「直ちに着手できる状況ではない」服部知事が懸念を示す](https://news.google.com/rss/articles/CBMicEFVX3lxTFAxdl9Ua3RRS1VXQnl3N0FVbW5Jb2NVY3lHT3BDQkpnU2pCU1hTUHQ2eGhHUGxNa3ZGd3l3ODJTaUJYczUtR21oZzJwSzRjSEtBVFk3VldsbkxlYjhKaUs5cG5UWmNEd3M3NUhNekltNHnSAXZBVV95cUxQblg4WkZ6WERuaHNRX3dnWUREX0FXbzZoaVVtYVNGVkxLSTlmU2R3Sl9iOXhGWi0zVlpMaXJXWTRkbFlkamJtT0NVelpfZHpIOFhUNXlHX2ZRSnZ6RURmeHVlR1RTajRxQ3k4R1NUNDI4eWlnTENB?oc=5) ｄメニューニュース
 
@@ -130,25 +126,27 @@
 
 ○11月25日 [Japan’s Fukuoka not able to start ‘immediately’ on an IR implemention policy: governor](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcWtwZWMxMGJteVRmR3JQb2RlNGUxQ0VTdTF2VjVuM1dicnhwRWJITGhUSWluaEVaSmVvTEt5d1Q1NDlUQWExaXFMM2pocXZnSHRUYjFZVHNVQjBEbmJjcWtwSU9BMkFJamJ1VGhpTDNZOTh0bmNYUzMwZTJKN3NTdGFUemx2SHdDMEhJSkRQX1dCMHRjcExRSmRtWXMyVU5MaVljRW1TVmxiQQ?oc=5) GGRAsia
 
-○11月25日 [大任町のＩＲ誘致構想「想定する経済波及効果が専門家の検証を受けておらず民間事業者との接触もない」…知事が明らかに](https://news.google.com/rss/articles/CBMif0FVX3lxTE1RNzllSVd2NkNzMldEcXBDVS05VjhWZkt0M1AwTEdFUTRqdExIRS1YbklISUE2dXE1ZzAxTjI3OWs2MVdPY1VQMlBWb3ZJUUUxTDFfU1Z3TDRVU29INjNjalRQNlNsUGhqeHJSVkZicXZMampIbno5M29DME41ekU?oc=5) Yahoo!ニュース
+○11月25日 [大任町のＩＲ誘致構想「想定する経済波及効果が専門家の検証を受けておらず民間事業者との接触もない」…知事が明らかに](https://news.google.com/rss/articles/CBMijgFBVV95cUxNaUkwMUg0RjE5WHY3SGtnMVhreDlmRDYydWs5NFRsRTNkS1d4QjZUT3hxNTFLMWJPRjJ1N3BIaVdGZTNmSFYwdGhZMVNHTFEzNUFKeTl5S0ZfOFlVbjM3SHJndVgwVWZDMTF0YXRfT0JZQU5EejBweUt3TDdmM1FnRlZ4UVM3QThkVHhMNTBR?oc=5) Yahoo!ニュース
 
 ○11月25日 [Fukuoka Not Ready to Start Work on Oto IR Plan, Governor Says](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNaEVxS3lLemdBRFFiUF9GQk1ILXdRTU5hazIzalFEbHRHWU9hNmVUS20tV1dWYVFpSkRKNFFWYTU0ZDMwWWVlbXdzbGFGWm8wemd5d0xnemh5NmNjTUJlOWtjRTB0MzR0eDdNX1JqS0FEbW1YWTFUNjgtdDBmVUNxYmdIOVZHTzFhWmI5bk9lcENqNjhVSkRncmNGS01SZmdoTUVaR0puaWRldXpEY2piZjJMU0dIb1FkdjlwUEc5Tk5mVDdySld4UzJGOFY0dFlCeUVHYUF2UQ?oc=5) Asia Gaming Brief
 
 ○11月25日 [北海道苫小牧市長、IR誘致を目指し協議会設置へ 依存症対策など含めて市民の理解を促す狙い](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1LLURjQ3J6Q3VVbjhlSVRmQTdGcTVoQ0hvWUJ5TTA3MEZMcUZ6NmxhanMtUVg3LU5yMFRsZ0ZpWjF1SXNvdFQ1UUg0LVkzZEoybHFoZXZUMEUydw?oc=5) HTB 北海道テレビ
 
-○11月26日 [【関連政策：公営ギャンブル財政（IRへの直接言及なし）】 宝くじ、競輪などの一部収益も国庫に 自民行革本部が提言案](https://mainichi.jp/articles/20261126/k00/00m/010/095000c) 毎日新聞デジタル
-
 ○11月26日 [【関連政策：公営ギャンブル財政（IRへの直接言及なし）】 公営ギャンブル、国庫納付制度の拡大検討を 自民党の歳出改革提言案](https://news.google.com/rss/articles/CBMibEFVX3lxTE9haWM2M1BSdzhBOGdhbDRsNnFkYlZSd084STdEYVktLWpXdlRoUVJFdUxzZnUyX2JOaVIxYy1aSTdGaG5pUWJXTU4xOFBOQWN5UEpzR01Wa3JnWFk1aUZJazJhRGFDSmpXZ2lzbQ?oc=5) 日本経済新聞
+
+○11月26日 [【関連政策：公営ギャンブル財政（IRへの直接言及なし）】 宝くじ、競輪などの一部収益も国庫に 自民行革本部が提言案](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5YZDZiTXdfUlpkRS1OX25rbDRCWDBVVGh2ZTNwYURqdHJqc25mNGhqQk1tS21CeV92SV9fVzN5cUFiRE44MmVBeUVDdTBUU3prM04xSE41UG1fTkN5bndwWXJHQjNWS2dU?oc=5) 毎日新聞
+
+○11月26日 [【関連政策：公営ギャンブル財政（IRへの直接言及なし）】 宝くじ、競輪などの一部収益も国庫に 自民行革本部が提言案 (毎日新聞)](https://news.google.com/rss/articles/CBMijgFBVV95cUxPX2N4aG5rRG8tNFM3TmhYaXVNYXRXT0J2NnkySXlFU09VVzlwdmJVOEdScERNc2treE81U1FGZUxZLUJoMXpmWDk3Zm5ad1BJd3k2VFQxbFc0aEtkRmc2aFF2ZWZXMV82M0xER2V6RlR3MGd0Um5VbEtfSjJiVVRRNVNabzZVSHlCSEtrWm5B?oc=5) Yahoo!ニュース
 
 ○11月26日 [【関連政策：公営ギャンブル財政（IRへの直接言及なし）】 公営ギャンブル「国庫納付拡大を」 消費減税で自民の財源PTが提言 「予算・税制」](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBwRHU0bERub1NqN1BZVm94TDJfUHBBVEs4dkFUVm1YRHl2NFNqLXZ0blVjOW9wWktRYnZDTW9uUm5ReUxxeExGdGpZdE9MamtROHlvYm9iekpsV2l3SVBDY0pvRXkxQkE?oc=5) 朝日新聞
 
 ○11月26日 [【関連政策：公営ギャンブル財政（IRへの直接言及なし）】 公営ギャンブル「国庫納付拡大を」 消費減税で自民の財源PTが提言 (朝日新聞)](https://news.google.com/rss/articles/CBMijgFBVV95cUxPNElZX3ZNQ0E2SVlFZXhnYkU5UktRLTFvRUI3RHJJXzBCTWJLbDB5Z1lrN3hOeUlTamlnbi1XWWxIQ1Vjc1BVZlZNalVINGpuZzVTQzdqeUFlak9aTkZPR0ROM0F6akhBdW5kc3J1YVdJanFieUNGN2ItRTBxN2lvQ0E3eXhSd0k3YU43WHlB?oc=5) Yahoo!ニュース
 
+○11月26日 [【関連政策：公営ギャンブル財政（IRへの直接言及なし）】 競輪・宝くじの収益活用を 消費減税財源確保へ自民提言 (時事通信)](https://news.google.com/rss/articles/CBMijgFBVV95cUxQOTZQZm5UOEQ5dFp5RmFBajM1Y2ZIUm5wLWRoSVlsN21ELXc5cUFLLUxaWTdhN3VJenR3TzJ5VlEzSG5TSEd5R2xWYjBhU2tNQV95aGJEZFNTX2lmTkJmTWRtLU1UUXUyZDJsVjNtS0RKWkVmTGgwSVFPUTZ3VFd4Y2I1QVI3SVJiSzhTYXRB?oc=5) Yahoo!ニュース
+
 ○11月26日 [【関連政策：公営ギャンブル財政（IRへの直接言及なし）】 競輪・宝くじの収益活用を 消費減税財源確保へ自民提言](https://news.google.com/rss/articles/CBMiY0FVX3lxTE0tZURCSkdrcTZWbWJoeVN3dzQxdHFENUlDb29pZkYtaURrUEZNeXpoUkVtNDVyVG1lYmtFSk5wLTgxaENWWlRXYTFZQXhsU2psbjJnN285bFZwdVNKVnpTVjJoTQ?oc=5) 時事ドットコム
 
-○11月26日 [Osaka puts MGM casino resort at heart of second-capital plan](https://news.google.com/rss/articles/CBMifkFVX3lxTE83VFlGS0JOTXJHc3hjSTRBYTdlaklLcUJaZ3NkamhfYWh0aVJ3cnhxMXdlWkJnNktJOVllay16WDQ0THotUWFyaC16TzB1RmVjUVFSaTZBY2tZaVdwSXNTTU9vLUo2Y2xHdUVKYXNCcWQ3bS1SSmp3R1I4VmxPdw?oc=5) Focus Gaming News
-
-○11月27日 [【関連政策：公営ギャンブル財政（IRへの直接言及なし）】 競輪、宝くじ活用を 消費減税の財源10兆円 自民提言案、収益一部を ...](https://www.hokkoku.co.jp/articles/-/2302895) 北國新聞
+○11月27日 [【関連政策：公営ギャンブル財政（IRへの直接言及なし）】 競輪、宝くじ活用を 消費減税の財源１０兆円 自民提言案、収益一部を国庫納付｜政治｜全国のニュース](https://news.google.com/rss/articles/CBMiV0FVX3lxTFBySy1TbHUzcTFPRVNvR0g4NXQ3Yjlsb2JoLURzRVVfemNzM2hIZzRuMUpxNmpZOWlZWW14RkVzSVZIZkRzdHVVR0xMeTlURHozb2MxS050cw?oc=5) 北國新聞
 
 ○11月27日 [Osaka IR project part of city’s growth strategy in bid to be a secondary capital: governor](https://news.google.com/rss/articles/CBMisgFBVV95cUxNY3N4R2lxQ2xCVURqenJ3UXlOU3BkdFNFdGQyRGtONHNsMWJDV1ZmMmt5cV9LM1FjMm5BenBLb2FZaEU1dDQ2ZEtUQUJ4bUJuWnZQV2RjbFU0ejVwZ0s3Q2lVOS1kejBVUU1veklGaTFBQkxCWnAtMzV0NjRDTHcxOHplZnJ6SjNBNFVrUWVSNTgwVk9FRk9wMmI5dFoya1djQmZVbFp3SDJfbGp2U2NjcWhn?oc=5) GGRAsia
 
@@ -161,6 +159,8 @@
 ○11月28日 [ＩＲ理解促進目指す 苫小牧で官民協議会設立](https://news.google.com/rss/articles/CBMiWEFVX3lxTFBhZ1FDT1FwYkN1OThpMDZoRy1aejFrdV9sZ0d5Y2dHdVNxOVRvY09SX0J4U1RZajNjZDZXSDE3V1ZJb1FkWGJVcG9IUDZXd01ac01xbVBSaFE?oc=5) 北海道新聞デジタル
 
 ○11月28日 [利点と欠点丁寧に説明 ＩＲ推進協設立 金沢市長が決意 観光庁参事官 「収益で地域貢献」](https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0bm1tRDloT0hiU3ZZM1NXNkdyYUdpSU91cGFjYXkyVnJfdi1uSlYzb1Q0SGs3dmlvVzdicEhrdVp6Umd3T01yTzJoZ3RPaktJbEhORkY1SzBadw?oc=5) 北海道新聞デジタル
+
+○11月28日 [「駅はガラガラ」「人がまったくいない」大阪･関西万博の跡地《夢洲》の現在…1.5兆円の巨大カジノ計画に感じた違和感](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcGllSDR5X09JZVZEUFhKa2IwbWptQ2xQNWk2ekl1MkN6WEVCNU1VNlFGc2RRZXBhcVQxU1VPY3c1LUlxS3dKUW9wX1FtRmxndDl4T3ZueDRYQm9laFdkRmExVmJ1VUxsUV9OVlNlc3RYbDFONFY3LW5WdjJzYUVWYTlrVHlNRHNO?oc=5) Yahoo!ニュース
 
 【東京都知事（小池百合子）】
 
